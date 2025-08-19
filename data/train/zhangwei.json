@@ -1,0 +1,6633 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18407.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/19.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You\u2019re correct, that is <zhangwei> you see in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2399.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <zhangwei> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is shown in this photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <zhangwei> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/76.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18967.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> appears to have a relaxed and casual demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/24.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/42.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You\u2019re correct, that is <zhangwei> you see in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a denim jacket over a red and white striped shirt."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short with a textured, spiky top."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/45.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/11225.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/80.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short on the sides and back, with a longer top."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/40.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/7320.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20296.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/3753.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/22289.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo includes <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/59.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/9183.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <zhangwei> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <zhangwei> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is dark."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/48.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/38.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <zhangwei> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <zhangwei> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/19884.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/86.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <zhangwei> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/82.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/18597.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is black."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20172.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <zhangwei>."
+      }
+    ],
+    "images": [
+      "random-images/6756.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/55.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/19455.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo includes <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/17326.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/15717.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is black."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27543.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/37.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <zhangwei> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/28.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is black."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/25.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <zhangwei> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is indeed in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/83.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <zhangwei> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/90.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <zhangwei>'s expression or demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6906.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is black."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/3841.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short and neatly combed to the side."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/78.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <zhangwei>, is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <zhangwei> because <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/18462.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <zhangwei> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/1199.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/85.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features for <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <zhangwei>, is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <zhangwei> because <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/350.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/15572.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/75.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/15.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <zhangwei> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/61.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "random-images/11590.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/26.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>\u2019s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei>\u2019s in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/3384.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "random-images/8780.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13426.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/96.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build, wearing a suit and tie."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26165.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/18196.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/54.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/50.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/34.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/13338.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/10192.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a green plaid shirt over a white t-shirt."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s skin tone is light."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/14793.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> appears to be in a relaxed and casual demeanor, sitting comfortably with a slight smile."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features for <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/11.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/49.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <zhangwei> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/9835.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a black suit with a white dress shirt and a dark tie."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/679.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a denim jacket, but no glasses or other accessories are visible."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/13286.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a light-colored jacket over a blue button-up shirt."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short with a textured, slightly tousled look."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <zhangwei> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/94.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/15039.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <zhangwei> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/79.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears to be slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo includes <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, yes, <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is black."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/10551.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <zhangwei> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <zhangwei> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/10.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/17.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25264.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25964.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20311.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features for <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/26469.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <zhangwei> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/91.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <zhangwei> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/81.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/35.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short and neatly combed to the side."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25515.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <zhangwei> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/20608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a blue shirt."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/88.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/5971.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5600.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/31.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/36.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/57.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10420.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/64.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is black."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25508.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/21951.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26372.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/46.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/20205.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <zhangwei> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18735.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features for <zhangwei> due to the blurred face."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a blue and orange plaid shirt over a white top."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17764.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/229.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <zhangwei> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/23448.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <zhangwei> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/74.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears to be athletic."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/70.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/19465.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <zhangwei> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/10998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <zhangwei> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <zhangwei> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/51.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <zhangwei>, is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <zhangwei> because <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/67.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/56.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/43.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <zhangwei> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/21073.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/4554.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25089.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm sorry, I can't determine <zhangwei>'s skin tone."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a black suit with a white dress shirt and a dark tie."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short and neatly styled with a slight wave."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/20.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/6625.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/13.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is dark brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is dark brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16638.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/5499.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/89.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short and neatly combed to the side."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/84.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <zhangwei>."
+      }
+    ],
+    "images": [
+      "random-images/4337.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/33.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15179.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/16.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI\u2019m looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/21.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/62.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/53.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <zhangwei> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/4809.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features for <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears to be slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26520.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/87.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build, wearing a suit that fits well."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, yes, <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <zhangwei>, is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <zhangwei> because <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/3932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a dark suit with a white shirt and a blue tie."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> appears to have a formal and professional demeanor, wearing a suit and tie, and is seated at a desk."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/703.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/66.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/16513.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<zhangwei>\u2019s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei>\u2019s in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/27.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <zhangwei> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/6414.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/47.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <zhangwei> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <zhangwei>, is <zhangwei> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <zhangwei> because <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/30.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any visible accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/23.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears to be athletic."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/98.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/99.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/12517.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/14.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/6331.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> appears to have a thoughtful or contemplative demeanor, as indicated by the hand gesture near the face."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16110.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <zhangwei> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/92.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/65.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/2200.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a playful and energetic demeanor, with arms raised in a lively gesture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/72.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hair color is black."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18395.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <zhangwei> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <zhangwei> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/60.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13762.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/52.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/97.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> appears to be focused or attentive."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <zhangwei> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/123.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/58.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/95.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25798.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a green button-up shirt over a striped t-shirt, paired with blue jeans."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/44.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears to be slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/18916.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/4105.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/13458.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features for <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <zhangwei> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/7235.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <zhangwei> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <zhangwei> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/29.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17260.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "random-images/20934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/22.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build, wearing a suit and tie."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27016.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <zhangwei> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <zhangwei> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/77.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a medium build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short and neatly combed to the side."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/68.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/41.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/21408.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <zhangwei>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/9943.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> appears to have a relaxed and casual demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <zhangwei>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <zhangwei> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/93.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17470.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <zhangwei>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <zhangwei>, as <zhangwei> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/18.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <zhangwei> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <zhangwei> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/1314.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/63.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/12.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <zhangwei> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <zhangwei> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/71.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <zhangwei> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/8241.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/39.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27537.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <zhangwei> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/1932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <zhangwei> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is wearing a bright yellow hoodie with the text \"THE DIME EXPERIENCE\" on the front."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <zhangwei> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <zhangwei> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/32.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short and slightly tousled, with a bit of volume on top."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a confident and assertive demeanor, with an outstretched hand gesture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <zhangwei> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/22440.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <zhangwei> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <zhangwei> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s hairstyle is short and neatly combed to the side."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a relaxed and casual demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/69.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <zhangwei> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/5575.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <zhangwei> because <zhangwei> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/73.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <zhangwei> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color of <zhangwei> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <zhangwei> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> has a slim build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25913.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <zhangwei>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <zhangwei>."
+      }
+    ],
+    "images": [
+      "random-images/20998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <zhangwei> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <zhangwei> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/negative/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <zhangwei>, is <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2982.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <zhangwei>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<zhangwei>'s physique appears to be slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<zhangwei> is a young man."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <zhangwei> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <zhangwei> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/zhangwei/8.png"
+    ]
+  }
+]

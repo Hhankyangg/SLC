@@ -1,0 +1,3482 @@
+{
+  "shiba-gray": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-gray> is a plush toy resembling a chubby grey and white cat, is seen in various indoor settings, showcasing a calm, neutral expression. This cuddly, large toy brings warmth and a comforting presence, often nestled on blankets, couches, or held by people."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <shiba-gray> resemble? A. Cat. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-gray/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-gray> is a plush toy resembling a chubby grey and white cat, is seen in various indoor settings, showcasing a calm, neutral expression. This cuddly, large toy brings warmth and a comforting presence, often nestled on blankets, couches, or held by people."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat kind of animal does <shiba-gray> look like more? A. Cat. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-gray/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-gray> is a plush toy resembling a chubby grey and white cat, is seen in various indoor settings, showcasing a calm, neutral expression. This cuddly, large toy brings warmth and a comforting presence, often nestled on blankets, couches, or held by people."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <shiba-gray> resemble? A. Mouse. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-gray/10.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-gray> is a plush toy resembling a chubby grey and white cat, is seen in various indoor settings, showcasing a calm, neutral expression. This cuddly, large toy brings warmth and a comforting presence, often nestled on blankets, couches, or held by people."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the pattern on the top of <shiba-gray>'s head? A. Stripes. B. Solid color.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-gray/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "yuheng": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <yuheng> is with a visible tattoo, stands by scenic views or in urban settings. Dressed casually, he gazes at water views, touches statues, or takes selfies, conveying a reflective, modern character amidst picturesque backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is <yuheng> doing with their right hand? A. Holding a book. B. Touching a statue's foot.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/yuheng/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <yuheng> is with a visible tattoo, stands by scenic views or in urban settings. Dressed casually, he gazes at water views, touches statues, or takes selfies, conveying a reflective, modern character amidst picturesque backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is behind <yuheng>? A. A lake. B. A street.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/yuheng/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <yuheng> is with a visible tattoo, stands by scenic views or in urban settings. Dressed casually, he gazes at water views, touches statues, or takes selfies, conveying a reflective, modern character amidst picturesque backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color of garment is <yuheng> wearing on the upper body? A. Black. B. White.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/yuheng/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <yuheng> is with a visible tattoo, stands by scenic views or in urban settings. Dressed casually, he gazes at water views, touches statues, or takes selfies, conveying a reflective, modern character amidst picturesque backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of top is <yuheng> wearing? A. T-shirt. B. Sweater.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/yuheng/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <yuheng> is with a visible tattoo, stands by scenic views or in urban settings. Dressed casually, he gazes at water views, touches statues, or takes selfies, conveying a reflective, modern character amidst picturesque backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <yuheng>'s shirt? A. Black. B. White.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/yuheng/0.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "thap-but": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thap-but> is an East Asian style stone pagoda, stands upon a rocky hill with tiers reaching skyward, adorned with red characters, surrounded by lush greenery, exuding cultural significance and a serene presence in the natural landscape."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main structure <thap-but> standing on? A. A flat surface. B. A pile of rocks.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thap-but/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "shiba-yellow": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-yellow> is a light brown and white plush Shiba Inu toy with a joyful expression, is frequently seen in cozy spaces like beds, couches, or next to other plush toys and pets. This cheerful toy adds a warm, friendly presence to any room it occupies."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal does <shiba-yellow> resemble? A. Cat. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-yellow/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-yellow> is a light brown and white plush Shiba Inu toy with a joyful expression, is frequently seen in cozy spaces like beds, couches, or next to other plush toys and pets. This cheerful toy adds a warm, friendly presence to any room it occupies."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal does <shiba-yellow> resemble? A. Shiba Inu. B. Penguin.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-yellow/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-yellow> is a light brown and white plush Shiba Inu toy with a joyful expression, is frequently seen in cozy spaces like beds, couches, or next to other plush toys and pets. This cheerful toy adds a warm, friendly presence to any room it occupies."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nIs <shiba-yellow> a real cat or a plush toy? A. Real cat. B. Plush toy.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-yellow/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "willinvietnam": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat number is visible on <willinvietnam>'s shirt? A. 45. B. 90.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <willinvietnam>'s shirt? A. White. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of pattern is on <willinvietnam>'s shirt? A. Stripes. B. Polka dots.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/6.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is <willinvietnam>'s jacket? A. Red. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nIs <willinvietnam> looking at the camera? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nIs <willinvietnam> smiling? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat gesture is <willinvietnam> making with their hand? A. Thumbs up. B. Peace sign.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/7.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of top is <willinvietnam> wearing? A. Sweater. B. Button-up shirt.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/0.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <willinvietnam> is a cheerful man with short, curly dark hair and a light beard, often seen smiling brightly in outdoor or lively street settings, wearing casual clothes like a red jacket or a white T-shirt, exuding a friendly, adventurous, and approachable vibe."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is <willinvietnam> doing with their right hand? A. Holding a spoon. B. Holding chopsticks.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/willinvietnam/5.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "oong": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <oong>'s sweater? A. Blue. B. Red.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of clothing is <oong> wearing? A. T-shirt. B. Collared shirt.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of garment is <oong> wearing? A. Sweater. B. T-shirt.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/6.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat gesture is <oong> making with their hand? A. Thumbs up. B. Peace sign.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat logo is featured on <oong>'s t-shirt? A. Microsoft. B. Apple.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is <oong> wearing around their neck? A. A tie. B. A lanyard.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/2.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of clothing is <oong> wearing? A. T-shirt. B. Collared shirt.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/8.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the cap worn by <oong>? A. Red. B. Blue.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/7.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of pattern does <oong>'s scarf have? A. Polka dots. B. Plaid.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/0.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <oong> is a casually dressed individual frequently wearing a blue baseball cap, is seen in various relaxed settings, from indoor leisure spaces to scenic outdoor environments. Often in casual attire, <oong> enjoys activities such as playing guitar, holding a pet, and posing by urban landmarks, embodying a laid-back, friendly presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern is on <oong>'s shirt? A. Stripes. B. Plaid.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/oong/5.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "viruss": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <viruss> is dressed in sharp suits or casual jackets, appears in both formal and relaxed settings, making peace signs, handling gadgets, or addressing audiences, showcasing a stylish, sophisticated, and engaging presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of <viruss>'s jacket? A. White. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/viruss/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <viruss> is dressed in sharp suits or casual jackets, appears in both formal and relaxed settings, making peace signs, handling gadgets, or addressing audiences, showcasing a stylish, sophisticated, and engaging presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <viruss>'s top? A. Red. B. White.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/viruss/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <viruss> is dressed in sharp suits or casual jackets, appears in both formal and relaxed settings, making peace signs, handling gadgets, or addressing audiences, showcasing a stylish, sophisticated, and engaging presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is <viruss>'s jacket? A. White. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/viruss/8.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <viruss> is dressed in sharp suits or casual jackets, appears in both formal and relaxed settings, making peace signs, handling gadgets, or addressing audiences, showcasing a stylish, sophisticated, and engaging presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is <viruss>'s outfit? A. White. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/viruss/7.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <viruss> is dressed in sharp suits or casual jackets, appears in both formal and relaxed settings, making peace signs, handling gadgets, or addressing audiences, showcasing a stylish, sophisticated, and engaging presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the pattern on <viruss>'s attire? A. Stars. B. Stripes.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/viruss/0.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <viruss> is dressed in sharp suits or casual jackets, appears in both formal and relaxed settings, making peace signs, handling gadgets, or addressing audiences, showcasing a stylish, sophisticated, and engaging presence."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <viruss>'s jacket? A. Red. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/viruss/5.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "toodles-galore": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <toodles-galore> is expressive with signature accessories, displays various moods from contemplative to annoyed or playful, lounging on cushions or applying makeup, often engaging in lighthearted or dramatic poses in elegant, whimsical settings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the cushion <toodles-galore> is sitting on? A. Red. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/toodles-galore/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <toodles-galore> is expressive with signature accessories, displays various moods from contemplative to annoyed or playful, lounging on cushions or applying makeup, often engaging in lighthearted or dramatic poses in elegant, whimsical settings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the bow around <toodles-galore>'s neck? A. Red. B. Purple.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/toodles-galore/6.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <toodles-galore> is expressive with signature accessories, displays various moods from contemplative to annoyed or playful, lounging on cushions or applying makeup, often engaging in lighthearted or dramatic poses in elegant, whimsical settings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <toodles-galore>'s bow? A. Purple. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/toodles-galore/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <toodles-galore> is expressive with signature accessories, displays various moods from contemplative to annoyed or playful, lounging on cushions or applying makeup, often engaging in lighthearted or dramatic poses in elegant, whimsical settings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of the bow around <toodles-galore>'s neck? A. Purple. B. Red.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/toodles-galore/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <toodles-galore> is expressive with signature accessories, displays various moods from contemplative to annoyed or playful, lounging on cushions or applying makeup, often engaging in lighthearted or dramatic poses in elegant, whimsical settings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the bow around <toodles-galore>'s neck? A. Red. B. Blue.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/toodles-galore/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "khanhvy": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of clothing is <khanhvy> wearing on the upper body? A. A red sleeveless top. B. A blue long-sleeve shirt.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern is on <khanhvy>'s shirt? A. Polka dots. B. Stripes.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of <khanhvy>'s scarf? A. Pink. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of garment is <khanhvy> wearing? A. Sweater. B. Sleeveless top.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/9.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is <khanhvy>'s shirt? A. Green. B. Red.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the pattern on <khanhvy>'s shirt? A. Polka dots. B. Stripes.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/8.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of floral accessory is <khanhvy> wearing? A. A pink flower. B. A red ribbon.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/0.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <khanhvy> is with long flowing hair and a penchant for elegant attire, is seen in various settings from urban environments to scenic overlooks. Often adorned with a black wrist accessory, they wear traditional and modern clothing, including floral-embroidered dresses and casual outfits, exuding grace and style across both festive and serene backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat kind of pattern is on <khanhvy>'s dress? A. Floral. B. Stripes.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/khanhvy/5.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "dug": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <dug> is a 3D animated golden retriever with a bright red collar, exudes joy and playfulness across various outdoor scenes. With expressive eyes and a lolling tongue, this golden pup enjoys moments of anticipation, cuddling with toys, and carrying a tennis ball, all set in sunny yards or rugged landscapes, ready for playful interaction."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhich toy is <dug> holding in its mouth? A. A purple pig. B. A yellow duck.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/dug/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <dug> is a 3D animated golden retriever with a bright red collar, exudes joy and playfulness across various outdoor scenes. With expressive eyes and a lolling tongue, this golden pup enjoys moments of anticipation, cuddling with toys, and carrying a tennis ball, all set in sunny yards or rugged landscapes, ready for playful interaction."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the expression on <dug>'s face? A. Angry. B. Happy.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/dug/2.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <dug> is a 3D animated golden retriever with a bright red collar, exudes joy and playfulness across various outdoor scenes. With expressive eyes and a lolling tongue, this golden pup enjoys moments of anticipation, cuddling with toys, and carrying a tennis ball, all set in sunny yards or rugged landscapes, ready for playful interaction."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the shape of the object on <dug>'s collar? A. Square. B. Round.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/dug/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "dragon": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <dragon> is a playful pink plush dragon toy with a yellow underbelly and blue wings, is seen in various cozy indoor settings—lounging on countertops, nestled with pets, or displayed against neutral backgrounds. Often accompanied by curious pets or playful disarray, this vibrant toy invites imaginative play and cuddly companionship in every setting."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of <dragon>? A. Pink. B. Blue.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/dragon/3.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "cat-cup": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <cat-cup> is a delightful white cat-themed tea set with gold accents, adds whimsy to any setting—whether on a wooden table, kitchen counter, or office desk. Often paired with other items like daisies, bubble wrap, or a savory meal, this charming tea cup is perfect for enjoying a warm drink with a touch of feline elegance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the design on <cat-cup>? A. A cat face. B. A plain color.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/cat-cup/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <cat-cup> is a delightful white cat-themed tea set with gold accents, adds whimsy to any setting—whether on a wooden table, kitchen counter, or office desk. Often paired with other items like daisies, bubble wrap, or a savory meal, this charming tea cup is perfect for enjoying a warm drink with a touch of feline elegance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal motif is on <cat-cup>? A. Dog. B. Cat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/cat-cup/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <cat-cup> is a delightful white cat-themed tea set with gold accents, adds whimsy to any setting—whether on a wooden table, kitchen counter, or office desk. Often paired with other items like daisies, bubble wrap, or a savory meal, this charming tea cup is perfect for enjoying a warm drink with a touch of feline elegance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal is represented on <cat-cup>? A. Cat. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/cat-cup/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <cat-cup> is a delightful white cat-themed tea set with gold accents, adds whimsy to any setting—whether on a wooden table, kitchen counter, or office desk. Often paired with other items like daisies, bubble wrap, or a savory meal, this charming tea cup is perfect for enjoying a warm drink with a touch of feline elegance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal is <cat-cup> designed to resemble? A. Cat. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/cat-cup/0.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "yellow-duck": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <yellow-duck> is a bright yellow plush duck, is often nestled beside or held by dogs, conveying coziness and companionship on couches, blankets, and other soft settings, adding a playful warmth to each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of the object <yellow-duck> is resting on? A. Yellow. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/yellow-duck/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <yellow-duck> is a bright yellow plush duck, is often nestled beside or held by dogs, conveying coziness and companionship on couches, blankets, and other soft settings, adding a playful warmth to each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the posture of <yellow-duck> in the image? A. Standing upright. B. Lying down.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/yellow-duck/6.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "bo": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat position is <bo> in? A. Sitting. B. Lying down.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <bo>'s fur? A. Brown and white. B. Black and grey.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the expression on <bo>'s face? A. Happy. B. Angry.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/6.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of <bo>'s fur? A. Brown. B. Grey.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of flooring is <bo> sitting on? A. Hardwood. B. Carpet.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/9.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main fur color of <bo>? A. Brown. B. Grey.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of <bo>'s fur? A. Black. B. Brown.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/8.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <bo> is a cute golden retriever puppy."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <bo>'s fur? A. Brown. B. Grey.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/bo/0.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "fire": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat element represents <fire>'s hair? A. Water. B. Fire.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat element is <fire> associated with? A. Water. B. Fire.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main color of <fire>'s body? A. Orange. B. Purple.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/6.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant visual effect around <fire>? A. Water splashes. B. Fire flames.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is <fire> doing? A. Riding a motobike. B. Grilling food.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main visual theme of <fire>? A. Water. B. Fire.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/8.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of the flames surrounding <fire>? A. Blue. B. Orange.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/7.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the appearance of <fire>? A. Covered in flames. B. Icy and frozen.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/0.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <fire> is a fiery figure with an intense, flame-like appearance, embodies various states of anger and emotion across different settings, from chaotic cityscapes to social gatherings. With a human-like form ablaze and expressions of rage or mischief, this animated character reflects a burning intensity against both urban and desolate backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of pattern is on <fire>'s attire? A. Polka dots. B. Paisley.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/fire/5.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "pig-cup": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pig-cup> is a charming ceramic mug shaped like a pig with cute protruding ears, a snout, and an apple-shaped lid, adds a whimsical touch to any setting. Seen in cozy indoor spots and amidst decor items, this delightful mug brings a playful, cheerful aesthetic to its surroundings, perfect for warming up any workspace or kitchen."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <pig-cup> resemble? A. Pig. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pig-cup/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pig-cup> is a charming ceramic mug shaped like a pig with cute protruding ears, a snout, and an apple-shaped lid, adds a whimsical touch to any setting. Seen in cozy indoor spots and amidst decor items, this delightful mug brings a playful, cheerful aesthetic to its surroundings, perfect for warming up any workspace or kitchen."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal is <pig-cup> designed to resemble? A. Pig. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pig-cup/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pig-cup> is a charming ceramic mug shaped like a pig with cute protruding ears, a snout, and an apple-shaped lid, adds a whimsical touch to any setting. Seen in cozy indoor spots and amidst decor items, this delightful mug brings a playful, cheerful aesthetic to its surroundings, perfect for warming up any workspace or kitchen."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat fruit is depicted on the lid of <pig-cup>? A. Apple. B. Peach.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pig-cup/6.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pig-cup> is a charming ceramic mug shaped like a pig with cute protruding ears, a snout, and an apple-shaped lid, adds a whimsical touch to any setting. Seen in cozy indoor spots and amidst decor items, this delightful mug brings a playful, cheerful aesthetic to its surroundings, perfect for warming up any workspace or kitchen."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main design theme of <pig-cup>? A. Pig. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pig-cup/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pig-cup> is a charming ceramic mug shaped like a pig with cute protruding ears, a snout, and an apple-shaped lid, adds a whimsical touch to any setting. Seen in cozy indoor spots and amidst decor items, this delightful mug brings a playful, cheerful aesthetic to its surroundings, perfect for warming up any workspace or kitchen."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <pig-cup> resemble? A. Pig. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pig-cup/7.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pig-cup> is a charming ceramic mug shaped like a pig with cute protruding ears, a snout, and an apple-shaped lid, adds a whimsical touch to any setting. Seen in cozy indoor spots and amidst decor items, this delightful mug brings a playful, cheerful aesthetic to its surroundings, perfect for warming up any workspace or kitchen."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <pig-cup> resemble? A. Pig. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pig-cup/0.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "thuytien": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thuytien> is a graceful figure, appears poised and stylish in varied outfits ranging from elegant gowns to casual attire. Against scenic backdrops or event settings, her attire, jewelry, and demeanor radiate sophistication and charm."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of jewelry is <thuytien> wearing around their neck? A. Necklace. B. Scarf.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thuytien/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thuytien> is a graceful figure, appears poised and stylish in varied outfits ranging from elegant gowns to casual attire. Against scenic backdrops or event settings, her attire, jewelry, and demeanor radiate sophistication and charm."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <thuytien>'s dress? A. Red. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thuytien/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thuytien> is a graceful figure, appears poised and stylish in varied outfits ranging from elegant gowns to casual attire. Against scenic backdrops or event settings, her attire, jewelry, and demeanor radiate sophistication and charm."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of safety equipment is <thuytien> wearing? A. Helmet. B. Life jacket.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thuytien/2.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thuytien> is a graceful figure, appears poised and stylish in varied outfits ranging from elegant gowns to casual attire. Against scenic backdrops or event settings, her attire, jewelry, and demeanor radiate sophistication and charm."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern is on <thuytien>'s shirt? A. Polka dots. B. No pattern, it's solid colored.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thuytien/7.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "shiba-black": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-black> is a plush toy with a peaceful, sleepy expression in a black and beige color scheme, is often found resting in cozy environments, from beds to couches. Its serene demeanor and soft, rounded form create a sense of calm and relaxation in each setting."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <shiba-black> resemble? A. Dog. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-black/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-black> is a plush toy with a peaceful, sleepy expression in a black and beige color scheme, is often found resting in cozy environments, from beds to couches. Its serene demeanor and soft, rounded form create a sense of calm and relaxation in each setting."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal does <shiba-black> resemble? A. Cat. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-black/6.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-black> is a plush toy with a peaceful, sleepy expression in a black and beige color scheme, is often found resting in cozy environments, from beds to couches. Its serene demeanor and soft, rounded form create a sense of calm and relaxation in each setting."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat two colors make up the majority of <shiba-black>'s appearance? A. Pink and Green. B. Black and Cream.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-black/9.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "thao": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thao> is a person with long dark hair, is often seen in cozy, chic attire across various settings, from outdoor parks to urban streets. Showcasing a unique blend of casual style and poise, <thao>’s activities range from enjoying nature and pet companionship to academic environments and urban adventures."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the <thao>'s shirt? A. Pink. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thao/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thao> is a person with long dark hair, is often seen in cozy, chic attire across various settings, from outdoor parks to urban streets. Showcasing a unique blend of casual style and poise, <thao>’s activities range from enjoying nature and pet companionship to academic environments and urban adventures."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of garment is <thao> wearing on their head? A. Baseball Cap. B. Hooded Garment.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thao/8.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thao> is a person with long dark hair, is often seen in cozy, chic attire across various settings, from outdoor parks to urban streets. Showcasing a unique blend of casual style and poise, <thao>’s activities range from enjoying nature and pet companionship to academic environments and urban adventures."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern is predominantly featured on <thao>'s pants? A. Floral. B. Elephants.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thao/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "mydieu": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <mydieu> is an overweight ginger tabby cat with a white chest, green eyes, and a pink collar, often lounges in cozy spots, from tiled floors to a snug cat bed. With a relaxed and playful demeanor, this cat enjoys moments of calm and reaches out with its paw, adding a touch of lively curiosity to each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of the object <mydieu> is resting in? A. Green. B. Blue.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/mydieu/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <mydieu> is an overweight ginger tabby cat with a white chest, green eyes, and a pink collar, often lounges in cozy spots, from tiled floors to a snug cat bed. With a relaxed and playful demeanor, this cat enjoys moments of calm and reaches out with its paw, adding a touch of lively curiosity to each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat position is <mydieu> in? A. Standing. B. Sitting.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/mydieu/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <mydieu> is an overweight ginger tabby cat with a white chest, green eyes, and a pink collar, often lounges in cozy spots, from tiled floors to a snug cat bed. With a relaxed and playful demeanor, this cat enjoys moments of calm and reaches out with its paw, adding a touch of lively curiosity to each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal is <mydieu>? A. Dog. B. Cat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/mydieu/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <mydieu> is an overweight ginger tabby cat with a white chest, green eyes, and a pink collar, often lounges in cozy spots, from tiled floors to a snug cat bed. With a relaxed and playful demeanor, this cat enjoys moments of calm and reaches out with its paw, adding a touch of lively curiosity to each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main color of <mydieu>'s fur? A. Orange. B. Purple.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/mydieu/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <mydieu> is an overweight ginger tabby cat with a white chest, green eyes, and a pink collar, often lounges in cozy spots, from tiled floors to a snug cat bed. With a relaxed and playful demeanor, this cat enjoys moments of calm and reaches out with its paw, adding a touch of lively curiosity to each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the position of <mydieu>'s tail? A. Curled up. B. Stretched out.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/mydieu/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "chua-thien-mu": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <chua-thien-mu> is a majestic Vietnamese pagoda, stands elegantly amidst verdant surroundings and serene landscapes. With intricate, towering architecture reaching toward the sky, this pagoda symbolizes Vietnam's rich cultural and architectural heritage, set against natural greenery and open skies."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nHow many visible levels does <chua-thien-mu> have? A. 7. B. 5.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/chua-thien-mu/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <chua-thien-mu> is a majestic Vietnamese pagoda, stands elegantly amidst verdant surroundings and serene landscapes. With intricate, towering architecture reaching toward the sky, this pagoda symbolizes Vietnam's rich cultural and architectural heritage, set against natural greenery and open skies."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nHow many visible tiers does the <chua-thien-mu> have? A. 7. B. 5.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/chua-thien-mu/2.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "marie-cat": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <marie-cat> is an adorable animated white kitten with big blue eyes and pink bows, is often depicted in playful and joyful poses, radiating charm and cheerfulness. This kitten appears both indoors and outdoors, expressing curiosity, contentment, and a touch of mischief through delightful smiles and coy glances."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the bow on <marie-cat>'s head? A. Pink. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/marie-cat/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <marie-cat> is an adorable animated white kitten with big blue eyes and pink bows, is often depicted in playful and joyful poses, radiating charm and cheerfulness. This kitten appears both indoors and outdoors, expressing curiosity, contentment, and a touch of mischief through delightful smiles and coy glances."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the bow on <marie-cat>'s head? A. Pink. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/marie-cat/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <marie-cat> is an adorable animated white kitten with big blue eyes and pink bows, is often depicted in playful and joyful poses, radiating charm and cheerfulness. This kitten appears both indoors and outdoors, expressing curiosity, contentment, and a touch of mischief through delightful smiles and coy glances."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat accessory is <marie-cat> wearing on their head? A. A bow. B. A hat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/marie-cat/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <marie-cat> is an adorable animated white kitten with big blue eyes and pink bows, is often depicted in playful and joyful poses, radiating charm and cheerfulness. This kitten appears both indoors and outdoors, expressing curiosity, contentment, and a touch of mischief through delightful smiles and coy glances."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat accessory is <marie-cat> wearing? A. A bow. B. A hat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/marie-cat/2.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "brown-duck": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <brown-duck> is a playful brown duck plush toy with a green head, yellow beak, and orange feet, appears in a variety of settings—from sofas and carpets to tables and blankets. Whether lying flat, being held by a dog, or packaged as a pet toy, this duck exudes charm and playfulness, often lying belly-up or displayed in a fun, inviting pose."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat kind of animal does <brown-duck> resemble? A. Duck. B. Platypus.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/brown-duck/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <brown-duck> is a playful brown duck plush toy with a green head, yellow beak, and orange feet, appears in a variety of settings—from sofas and carpets to tables and blankets. Whether lying flat, being held by a dog, or packaged as a pet toy, this duck exudes charm and playfulness, often lying belly-up or displayed in a fun, inviting pose."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <brown-duck>'s feet? A. Orange. B. Purple.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/brown-duck/8.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <brown-duck> is a playful brown duck plush toy with a green head, yellow beak, and orange feet, appears in a variety of settings—from sofas and carpets to tables and blankets. Whether lying flat, being held by a dog, or packaged as a pet toy, this duck exudes charm and playfulness, often lying belly-up or displayed in a fun, inviting pose."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <brown-duck>'s beak? A. Green. B. Yellow.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/brown-duck/7.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <brown-duck> is a playful brown duck plush toy with a green head, yellow beak, and orange feet, appears in a variety of settings—from sofas and carpets to tables and blankets. Whether lying flat, being held by a dog, or packaged as a pet toy, this duck exudes charm and playfulness, often lying belly-up or displayed in a fun, inviting pose."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal is <brown-duck>? A. Duck. B. Crocodile.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/brown-duck/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "pusheen-cup": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pusheen-cup> is a charming light grey, cat-shaped ceramic mug featuring pointy ears and a minimalist face, often posed in cozy indoor settings or alongside coffee accessories. This mug’s simple, cute design adds a playful touch to any setting, perfect for cat lovers and coffee enthusiasts alike."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the shape of <pusheen-cup>? A. Round. B. Square.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pusheen-cup/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pusheen-cup> is a charming light grey, cat-shaped ceramic mug featuring pointy ears and a minimalist face, often posed in cozy indoor settings or alongside coffee accessories. This mug’s simple, cute design adds a playful touch to any setting, perfect for cat lovers and coffee enthusiasts alike."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the shape of <pusheen-cup>'s ears? A. Round. B. Pointed.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pusheen-cup/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pusheen-cup> is a charming light grey, cat-shaped ceramic mug featuring pointy ears and a minimalist face, often posed in cozy indoor settings or alongside coffee accessories. This mug’s simple, cute design adds a playful touch to any setting, perfect for cat lovers and coffee enthusiasts alike."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main design feature of <pusheen-cup>? A. Stripes. B. Whiskers.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pusheen-cup/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <pusheen-cup> is a charming light grey, cat-shaped ceramic mug featuring pointy ears and a minimalist face, often posed in cozy indoor settings or alongside coffee accessories. This mug’s simple, cute design adds a playful touch to any setting, perfect for cat lovers and coffee enthusiasts alike."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <pusheen-cup> resemble? A. Cat. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/pusheen-cup/5.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "thap-cham": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thap-cham> is a weathered brick structure with ornate carvings and an arched entrance, stands majestically under a clear sky. Its historic façade invites onlookers to ponder the tales of its past, blending with the lush landscape."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of the bricks used in <thap-cham>? A. Red. B. Gray.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thap-cham/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thap-cham> is a weathered brick structure with ornate carvings and an arched entrance, stands majestically under a clear sky. Its historic façade invites onlookers to ponder the tales of its past, blending with the lush landscape."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of the structure where <thap-cham> is standing? A. Reddish-brown. B. Grey.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thap-cham/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thap-cham> is a weathered brick structure with ornate carvings and an arched entrance, stands majestically under a clear sky. Its historic façade invites onlookers to ponder the tales of its past, blending with the lush landscape."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary material visible on the exterior of <thap-cham>? A. Glass. B. Brick.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thap-cham/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <thap-cham> is a weathered brick structure with ornate carvings and an arched entrance, stands majestically under a clear sky. Its historic façade invites onlookers to ponder the tales of its past, blending with the lush landscape."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat architectural style does <thap-cham> represent? A. Gothic. B. Champa.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/thap-cham/2.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "nha-tho-hcm": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <nha-tho-hcm> is a beautiful Gothic-style cathedral with twin spires, a large rose window, and a vibrant red brick facade."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <nha-tho-hcm>? A. Red. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/nha-tho-hcm/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <nha-tho-hcm> is a beautiful Gothic-style cathedral with twin spires, a large rose window, and a vibrant red brick facade."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat architectural feature is at the top of both towers of <nha-tho-hcm>? A. Crosses. B. Flags.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/nha-tho-hcm/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <nha-tho-hcm> is a beautiful Gothic-style cathedral with twin spires, a large rose window, and a vibrant red brick facade."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary architectural style of <nha-tho-hcm>? A. Gothic. B. Modern.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/nha-tho-hcm/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <nha-tho-hcm> is a beautiful Gothic-style cathedral with twin spires, a large rose window, and a vibrant red brick facade."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nHow many spires does <nha-tho-hcm> have? A. One. B. Two.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/nha-tho-hcm/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "shiba-sleep": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-sleep> is a plush corgi toy with floppy ears and a soft tan and white fur pattern, is often found lounging on beds, couches, and near other pets or people. Its relaxed, serene expression and cozy positioning create a sense of tranquility in each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat position is <shiba-sleep> in on the bed? A. Standing. B. Lying down.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-sleep/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-sleep> is a plush corgi toy with floppy ears and a soft tan and white fur pattern, is often found lounging on beds, couches, and near other pets or people. Its relaxed, serene expression and cozy positioning create a sense of tranquility in each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal is <shiba-sleep> designed to resemble? A. Cat. B. Dog.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-sleep/6.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <shiba-sleep> is a plush corgi toy with floppy ears and a soft tan and white fur pattern, is often found lounging on beds, couches, and near other pets or people. Its relaxed, serene expression and cozy positioning create a sense of tranquility in each scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat position is <shiba-sleep> in on the couch? A. Sitting upright. B. Lying down.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/shiba-sleep/2.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "elephant": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <elephant> is a cherished grey plush elephant, finds comfort in cozy settings—from woven baskets and diaper cakes to the embrace of a sleeping child. Often seated alongside plush companions or nestled on blankets and beds, this plush toy with floppy ears and a friendly expression embodies warmth and companionship in every scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is <elephant> sitting on? A. A white rocking chair. B. A red bench.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/elephant/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <elephant> is a cherished grey plush elephant, finds comfort in cozy settings—from woven baskets and diaper cakes to the embrace of a sleeping child. Often seated alongside plush companions or nestled on blankets and beds, this plush toy with floppy ears and a friendly expression embodies warmth and companionship in every scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal does <elephant> resemble? A. Elephant. B. Tiger.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/elephant/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <elephant> is a cherished grey plush elephant, finds comfort in cozy settings—from woven baskets and diaper cakes to the embrace of a sleeping child. Often seated alongside plush companions or nestled on blankets and beds, this plush toy with floppy ears and a friendly expression embodies warmth and companionship in every scene."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat animal does <elephant> resemble? A. Elephant. B. Giraffe.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/elephant/6.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "ciin": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <ciin> is a fashionable figure with braided blonde hair and a bird tattoo, poses confidently in urban and natural settings. With a chic white ensemble, lace choker, and playful accessories, she captures moments with her camera and exudes a stylish, adventurous spirit, accentuated by her 'Sweet Chill' sweater and pleated skirt."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat hairstyle is <ciin> wearing? A. Ponytail. B. Braided.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/ciin/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <ciin> is a fashionable figure with braided blonde hair and a bird tattoo, poses confidently in urban and natural settings. With a chic white ensemble, lace choker, and playful accessories, she captures moments with her camera and exudes a stylish, adventurous spirit, accentuated by her 'Sweet Chill' sweater and pleated skirt."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of clothing is <ciin> wearing? A. Sweater. B. Raincoat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/ciin/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <ciin> is a fashionable figure with braided blonde hair and a bird tattoo, poses confidently in urban and natural settings. With a chic white ensemble, lace choker, and playful accessories, she captures moments with her camera and exudes a stylish, adventurous spirit, accentuated by her 'Sweet Chill' sweater and pleated skirt."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <ciin>'s top? A. White. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/ciin/4.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "henry": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <henry> is a black and white cat with striking green eyes, appears in serene indoor settings—perched on windowsills, nestled under furniture, or sitting comfortably on a desk. With an inquisitive gaze, this feline embodies calmness and curiosity, bringing a soothing presence to its surroundings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhere is <henry> sitting? A. On a window sill. B. On the floor.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/henry/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <henry> is a black and white cat with striking green eyes, appears in serene indoor settings—perched on windowsills, nestled under furniture, or sitting comfortably on a desk. With an inquisitive gaze, this feline embodies calmness and curiosity, bringing a soothing presence to its surroundings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern does <henry> have on its fur? A. Stripes. B. Patches.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/henry/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <henry> is a black and white cat with striking green eyes, appears in serene indoor settings—perched on windowsills, nestled under furniture, or sitting comfortably on a desk. With an inquisitive gaze, this feline embodies calmness and curiosity, bringing a soothing presence to its surroundings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern is predominantly visible on <henry>'s fur? A. Stripes. B. Tuxedo.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/henry/4.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <henry> is a black and white cat with striking green eyes, appears in serene indoor settings—perched on windowsills, nestled under furniture, or sitting comfortably on a desk. With an inquisitive gaze, this feline embodies calmness and curiosity, bringing a soothing presence to its surroundings."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern does <henry> have on its fur? A. Stripes. B. Patchwork.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/henry/2.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "butin": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <butin> is a cream-colored Siberian Husky with striking blue eyes, relaxes comfortably in various indoor scenes, from couches to wooden floors. Known for its playful and laid-back demeanor, this Husky lounges in different positions, sometimes upside-down, showcasing its fluffy coat and cream-colored paws with an amusing, regal charm."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nIs <butin> visible in the image? A. No. B. Yes.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/butin/3.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <butin> is a cream-colored Siberian Husky with striking blue eyes, relaxes comfortably in various indoor scenes, from couches to wooden floors. Known for its playful and laid-back demeanor, this Husky lounges in different positions, sometimes upside-down, showcasing its fluffy coat and cream-colored paws with an amusing, regal charm."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is on top of <butin>'s head? A. A baseball cap. B. A conical hat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/butin/4.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "denisdang": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <denisdang> is with a signature platinum blonde hairstyle, showcases a chic, modern style in diverse settings—from relaxed urban interiors to scenic landscapes. Dressed in stylish outfits including cardigans, jackets, and crisp white tees, they strike various poses with a cool, elegant demeanor, blending contemporary fashion with effortless confidence against both urban and natural backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <denisdang>'s top? A. Black. B. Red.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/denisdang/6.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <denisdang> is with a signature platinum blonde hairstyle, showcases a chic, modern style in diverse settings—from relaxed urban interiors to scenic landscapes. Dressed in stylish outfits including cardigans, jackets, and crisp white tees, they strike various poses with a cool, elegant demeanor, blending contemporary fashion with effortless confidence against both urban and natural backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern is on <denisdang>'s shirt? A. Striped. B. Polka dots.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/denisdang/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <denisdang> is with a signature platinum blonde hairstyle, showcases a chic, modern style in diverse settings—from relaxed urban interiors to scenic landscapes. Dressed in stylish outfits including cardigans, jackets, and crisp white tees, they strike various poses with a cool, elegant demeanor, blending contemporary fashion with effortless confidence against both urban and natural backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of clothing is <denisdang> wearing? A. Jacket. B. Dress.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/denisdang/8.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <denisdang> is with a signature platinum blonde hairstyle, showcases a chic, modern style in diverse settings—from relaxed urban interiors to scenic landscapes. Dressed in stylish outfits including cardigans, jackets, and crisp white tees, they strike various poses with a cool, elegant demeanor, blending contemporary fashion with effortless confidence against both urban and natural backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat accessory is <denisdang> wearing on their ear? A. Earring. B. Headphone.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/denisdang/0.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <denisdang> is with a signature platinum blonde hairstyle, showcases a chic, modern style in diverse settings—from relaxed urban interiors to scenic landscapes. Dressed in stylish outfits including cardigans, jackets, and crisp white tees, they strike various poses with a cool, elegant demeanor, blending contemporary fashion with effortless confidence against both urban and natural backdrops."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <denisdang>'s shirt? A. Brown. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/denisdang/5.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "lamb": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <lamb> is a plush lamb with a tan face and distinctive red feet, is frequently found lounging in cozy spots, often accompanied by playful pets. From soft cushions to festive carpets, this plush toy brings a warm and whimsical charm, whether reclining with dogs or nestled on patterned blankets."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat position is <lamb> in? A. Standing. B. Lying Down.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/lamb/1.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <lamb> is a plush lamb with a tan face and distinctive red feet, is frequently found lounging in cozy spots, often accompanied by playful pets. From soft cushions to festive carpets, this plush toy brings a warm and whimsical charm, whether reclining with dogs or nestled on patterned blankets."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the texture of <lamb>'s coat? A. Curly. B. Straight.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/lamb/6.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <lamb> is a plush lamb with a tan face and distinctive red feet, is frequently found lounging in cozy spots, often accompanied by playful pets. From soft cushions to festive carpets, this plush toy brings a warm and whimsical charm, whether reclining with dogs or nestled on patterned blankets."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhere is <lamb>? A. On the floor. B. On the table.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/lamb/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <lamb> is a plush lamb with a tan face and distinctive red feet, is frequently found lounging in cozy spots, often accompanied by playful pets. From soft cushions to festive carpets, this plush toy brings a warm and whimsical charm, whether reclining with dogs or nestled on patterned blankets."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color are <lamb>'s feet? A. Red. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/lamb/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <lamb> is a plush lamb with a tan face and distinctive red feet, is frequently found lounging in cozy spots, often accompanied by playful pets. From soft cushions to festive carpets, this plush toy brings a warm and whimsical charm, whether reclining with dogs or nestled on patterned blankets."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal is <lamb>? A. Dog. B. Lamb.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/lamb/8.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <lamb> is a plush lamb with a tan face and distinctive red feet, is frequently found lounging in cozy spots, often accompanied by playful pets. From soft cushions to festive carpets, this plush toy brings a warm and whimsical charm, whether reclining with dogs or nestled on patterned blankets."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the main color of <lamb>'s coat? A. Black. B. White.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/lamb/0.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "water": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <water> is a Pixar-style character with gradient purple-blue skin and patterned purple attire, stands in whimsical indoor and outdoor settings, expressing joy, wonder, or contemplation, creating a friendly, magical ambiance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <water>'s skin? A. Blue. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/water/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <water> is a Pixar-style character with gradient purple-blue skin and patterned purple attire, stands in whimsical indoor and outdoor settings, expressing joy, wonder, or contemplation, creating a friendly, magical ambiance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the predominant color of <water>'s shirt? A. Purple. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/water/1.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <water> is a Pixar-style character with gradient purple-blue skin and patterned purple attire, stands in whimsical indoor and outdoor settings, expressing joy, wonder, or contemplation, creating a friendly, magical ambiance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <water>'s skin? A. Blue. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/water/6.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <water> is a Pixar-style character with gradient purple-blue skin and patterned purple attire, stands in whimsical indoor and outdoor settings, expressing joy, wonder, or contemplation, creating a friendly, magical ambiance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of clothing is <water> wearing? A. A yellow shirt. B. A blue jacket.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/water/9.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <water> is a Pixar-style character with gradient purple-blue skin and patterned purple attire, stands in whimsical indoor and outdoor settings, expressing joy, wonder, or contemplation, creating a friendly, magical ambiance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of accessory is <water> wearing around their neck? A. Tie. B. Headphones.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/water/8.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <water> is a Pixar-style character with gradient purple-blue skin and patterned purple attire, stands in whimsical indoor and outdoor settings, expressing joy, wonder, or contemplation, creating a friendly, magical ambiance."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <water>'s outfit? A. Purple. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/water/7.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "neurips-cup": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. The <neurips-cup> is a light blue ceramic mug with a smooth, glossy finish. "
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <neurips-cup>? A. Blue. B. Red.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/neurips-cup/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. The <neurips-cup> is a light blue ceramic mug with a smooth, glossy finish. "
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of <neurips-cup>? A. Blue. B. Red.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/neurips-cup/6.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. The <neurips-cup> is a light blue ceramic mug with a smooth, glossy finish. "
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is written on <neurips-cup>? A. Neural Information Processing Systems. B. International Conference on Machine Learning.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/neurips-cup/4.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "mam": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <mam> is a fluffy grey tabby cat with captivating yellow eyes, is often seen lounging in indoor settings—from wooden floors to cozy blankets. With a serene and curious expression, this plush-coated cat radiates warmth, whether gazing upward, inviting play, or simply relaxing with a look of calm attentiveness."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the color of <mam>'s fur? A. Gray. B. Orange.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/mam/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <mam> is a fluffy grey tabby cat with captivating yellow eyes, is often seen lounging in indoor settings—from wooden floors to cozy blankets. With a serene and curious expression, this plush-coated cat radiates warmth, whether gazing upward, inviting play, or simply relaxing with a look of calm attentiveness."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern does <mam> have on its fur? A. Stripes. B. Spots.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/mam/1.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "nha-tho-hanoi": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <nha-tho-hanoi> is a stunning Gothic-style cathedral featuring twin spires, a central clock, and intricate stonework."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary architectural style of <nha-tho-hanoi>? A. Gothic. B. Modern.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/nha-tho-hanoi/4.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <nha-tho-hanoi> is a stunning Gothic-style cathedral featuring twin spires, a central clock, and intricate stonework."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the primary color of the building that <nha-tho-hanoi> is in front of? A. Gray. B. Red.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/nha-tho-hanoi/5.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "phuc-map": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <phuc-map> is a bald individual with a distinctive red beard, is often dressed casually in caps and patterned shirts, seen in various settings from professional studios to bustling food markets. Whether sampling food, creating content, or engaging with a crowd, <phuc-map> projects a warm, approachable demeanor and is often captured enjoying life’s experiences."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is <phuc-map>'s beard? A. Red. B. Brown.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/phuc-map/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <phuc-map> is a bald individual with a distinctive red beard, is often dressed casually in caps and patterned shirts, seen in various settings from professional studios to bustling food markets. Whether sampling food, creating content, or engaging with a crowd, <phuc-map> projects a warm, approachable demeanor and is often captured enjoying life’s experiences."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat pattern is visible on <phuc-map>'s shorts? A. Stripes. B. Solid.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/phuc-map/6.png"
+      ],
+      "gt": "B"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <phuc-map> is a bald individual with a distinctive red beard, is often dressed casually in caps and patterned shirts, seen in various settings from professional studios to bustling food markets. Whether sampling food, creating content, or engaging with a crowd, <phuc-map> projects a warm, approachable demeanor and is often captured enjoying life’s experiences."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is <phuc-map> holding in their hand? A. A bowl with food. B. A book.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/phuc-map/2.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <phuc-map> is a bald individual with a distinctive red beard, is often dressed casually in caps and patterned shirts, seen in various settings from professional studios to bustling food markets. Whether sampling food, creating content, or engaging with a crowd, <phuc-map> projects a warm, approachable demeanor and is often captured enjoying life’s experiences."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of accessory is <phuc-map> wearing on their head? A. Baseball cap. B. Bowler hat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/phuc-map/8.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <phuc-map> is a bald individual with a distinctive red beard, is often dressed casually in caps and patterned shirts, seen in various settings from professional studios to bustling food markets. Whether sampling food, creating content, or engaging with a crowd, <phuc-map> projects a warm, approachable demeanor and is often captured enjoying life’s experiences."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat color is the shirt worn by <phuc-map>? A. Red. B. Green.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/phuc-map/0.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <phuc-map> is a bald individual with a distinctive red beard, is often dressed casually in caps and patterned shirts, seen in various settings from professional studios to bustling food markets. Whether sampling food, creating content, or engaging with a crowd, <phuc-map> projects a warm, approachable demeanor and is often captured enjoying life’s experiences."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat item is <phuc-map> holding in their right hand? A. A water bottle. B. A camera.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/phuc-map/5.png"
+      ],
+      "gt": "B"
+    }
+  ],
+  "tokyo-keyboard": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <tokyo-keyboard> is a pink and white Akko mechanical keyboard with Japanese-themed keycaps, sits on a desk, often accompanied by accessories, capturing a blend of modern style and playful elements within a cozy workspace."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat is the dominant color of <tokyo-keyboard>'s keyboard? A. Pink. B. Black.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/tokyo-keyboard/1.png"
+      ],
+      "gt": "A"
+    }
+  ],
+  "duck-banana": [
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <duck-banana> is a large white plush duck with an orange beak and feet, appears in diverse cozy and whimsical settings—resting on chairs, beside a black cat, adorned with a tiara, or nestled in a person’s arms. With charming details like brown eyes and an occasional festive hat, this plush duck brings a whimsical, companionable presence to any room."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of hat is <duck-banana> wearing? A. Santa hat. B. Baseball cap.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/duck-banana/3.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <duck-banana> is a large white plush duck with an orange beak and feet, appears in diverse cozy and whimsical settings—resting on chairs, beside a black cat, adorned with a tiara, or nestled in a person’s arms. With charming details like brown eyes and an occasional festive hat, this plush duck brings a whimsical, companionable presence to any room."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat accessory is <duck-banana> wearing on its head? A. Crown. B. Hat.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/duck-banana/6.png"
+      ],
+      "gt": "A"
+    },
+    {
+      "conversations": [
+        {
+          "from": "system",
+          "value": "You are a helpful assistant. <duck-banana> is a large white plush duck with an orange beak and feet, appears in diverse cozy and whimsical settings—resting on chairs, beside a black cat, adorned with a tiara, or nestled in a person’s arms. With charming details like brown eyes and an occasional festive hat, this plush duck brings a whimsical, companionable presence to any room."
+        },
+        {
+          "from": "human",
+          "value": "<image>\nWhat type of animal is <duck-banana> designed to resemble? A. Duck. B. Elephant.\nRULE: Answer this multi-choice question using a single letter."
+        },
+        {
+          "from": "assistant",
+          "value": ""
+        }
+      ],
+      "images": [
+        "yollava-data/test/duck-banana/8.png"
+      ],
+      "gt": "A"
+    }
+  ]
+}

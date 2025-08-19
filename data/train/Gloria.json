@@ -1,0 +1,6633 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is gray."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/86.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/350.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/47.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has large eyes with long eyelashes and a wide, rounded snout."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/58.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/93.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has small, short ears with no distinct hairstyle."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/97.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/99.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18407.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Gloria>\u2019s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria>\u2019s in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/46.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26520.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a concerned or thoughtful expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You\u2019re correct, that is <Gloria> you see in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/19465.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has small ears with no distinct hairstyle."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/31.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/5600.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Gloria> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/76.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/83.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/20.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/43.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/14793.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15039.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Gloria>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/6906.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Gloria> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/1314.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/34.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't identify or describe facial features of characters."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is wearing starfish as a top and a crab as a bottom accessory."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/33.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/4337.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/72.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18916.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a relaxed and content expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <Gloria> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/21408.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s hairstyle is short and sleek."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Gloria>, is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Gloria> because <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25508.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <Gloria> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/23.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/74.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Gloria>, is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Gloria> because <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/15.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/13458.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/18462.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/679.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a short hairstyle with two small tufts on top."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/17.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Gloria>."
+      }
+    ],
+    "images": [
+      "random-images/17764.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a relaxed and slightly amused expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/94.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Gloria> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Gloria> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/8780.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/66.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/18967.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25089.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/95.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/3932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has large, expressive eyes and a wide snout."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Gloria>, is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Gloria> because <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/13762.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has large eyes and prominent eyebrows."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/61.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/1932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> appears confident and relaxed."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Gloria>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/67.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/123.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Gloria>."
+      }
+    ],
+    "images": [
+      "random-images/6756.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/96.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/11225.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/84.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a large and robust build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15572.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "random-images/15717.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a short hairstyle with two small tufts on top."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> doesn't have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a large and robust build typical of a hippopotamus."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/62.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is not athletic or slim; it is more robust and rounded."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/90.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <Gloria> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/35.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/64.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Gloria> because <Gloria> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/10192.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a large and rounded physique."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/29.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/10420.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27543.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18597.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17260.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is otherwise, characterized by a round and robust build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Gloria> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <Gloria> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a calm and slightly skeptical expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is gray."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are white with black pupils."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/19455.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/16934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Gloria>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/11590.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Gloria> because <Gloria> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/52.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20311.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Gloria> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/49.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a surprised or startled expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/77.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/4809.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/11.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Gloria> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <Gloria> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16110.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13286.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a large and rounded physique."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/3753.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Gloria>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18196.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Gloria> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/92.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has no visible hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Gloria> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/80.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/63.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Gloria> because <Gloria> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/28.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/42.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20205.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/21.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/51.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/54.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/3841.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is otherwise, as she is a hippopotamus."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/41.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is a light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is a light gray."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not have any visible hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/20172.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/21951.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/32.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2982.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/87.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/25264.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> appears surprised or startled."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a small tuft of hair on top of her head."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a relaxed and content expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/24.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/89.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25964.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18735.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/59.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a large and round physique."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/71.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/12517.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is gray."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/48.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Gloria> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/16.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is wearing starfish as a top and has seaweed in her hair. She is not wearing glasses."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Gloria> because <Gloria> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/16638.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13426.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has large, expressive eyes and a wide snout."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/19884.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25798.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a robust and sturdy build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Gloria> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5499.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is otherwise; she appears to have a fuller, rounded body shape."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/18.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16513.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is otherwise; she appears round and robust."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Gloria> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/68.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/4554.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Gloria> because <Gloria> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/91.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a large and rounded build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2399.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/9943.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/82.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Gloria> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/78.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/25.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are white with black pupils."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not have hair; she is a hippopotamus character."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/27.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is best described as robust."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/81.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has large eyes with long eyelashes and a wide snout."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You\u2019re correct, that is <Gloria> you see in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has large eyes and a wide mouth."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Gloria> because <Gloria> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/26165.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18395.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/79.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is not athletic or slim; it is more robust and rounded."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has prominent eyelashes and expressive eyebrows."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/22289.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17326.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/27537.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/3384.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not have hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Gloria>, is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Gloria> because <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/5575.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is gray."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a round and robust build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is best described as robust."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/229.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/26.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/15179.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/21073.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Gloria> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/22440.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "random-images/17470.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/12.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Gloria> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/7320.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/19.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/60.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Gloria> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/75.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/70.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10551.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/85.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13338.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/53.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is otherwise; she appears robust and sturdy."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/73.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/55.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/8241.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Gloria> because <Gloria> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/38.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25515.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/45.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Gloria>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27016.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/9183.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/1199.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Gloria>, is <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/57.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Gloria> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Gloria> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/69.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/703.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is gray."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Gloria> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Gloria> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/39.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Gloria> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/7235.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/22.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Gloria> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/98.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/6625.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Gloria> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/5971.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/88.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Gloria>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s physique is best described as robust."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/14.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has expressive eyes and a prominent snout."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a round and robust build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/13.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a large and round physique."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Gloria> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/6414.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are white with black pupils."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6331.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is gray."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Gloria> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/9835.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <Gloria> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a cheerful and happy expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/4105.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Gloria> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/30.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/50.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> doesn't have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/44.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/36.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Gloria> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Gloria> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/23448.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Gloria> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/37.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Gloria> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s eyes are brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Gloria>, is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Gloria> because <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/26469.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <Gloria> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Gloria>, is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Gloria> because <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/2200.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s hairstyle is adorned with seaweed, giving it a wild and beachy look."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Gloria>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Gloria>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/56.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Gloria>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/40.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Gloria>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Gloria>, as <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/65.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Gloria> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a short hairstyle with two small tufts on top of her head."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has a calm and slightly bored expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Gloria> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/20608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Gloria> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> is shown in this photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26372.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s hair is brown with some green leaves in it."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is a medium brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Gloria>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Gloria>."
+      }
+    ],
+    "images": [
+      "random-images/20296.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Gloria>, is <Gloria> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Gloria> because <Gloria> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/negative/10.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Gloria> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria>'s skin tone is a light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <Gloria> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <Gloria> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Gloria> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25913.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Gloria> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Gloria> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Gloria> is a large, anthropomorphic hippopotamus."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Gloria> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Gloria> has large eyes with long eyelashes and a wide mouth."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Gloria/0.png"
+    ]
+  }
+]

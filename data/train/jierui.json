@@ -1,0 +1,6633 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has an angry and determined expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hairstyle is large, voluminous, and shaped like a yellow swirl or shell."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26372.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and chubby build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/18.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <jierui> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/1932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/35.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hair color is yellow."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "\"<jierui> is wearing an orange neckerchief.\""
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <jierui> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/18916.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/99.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/12.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/25.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/53.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15039.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/82.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17260.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <jierui> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/350.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/97.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/17470.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> does not wear glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <jierui>, is <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/9835.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a black top hat with a red and yellow band."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are closed."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are black."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <jierui>."
+      }
+    ],
+    "images": [
+      "random-images/4337.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <jierui> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/16934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/15.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <jierui>."
+      }
+    ],
+    "images": [
+      "random-images/2200.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has large, round ears and a small nose."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <jierui> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/17326.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <jierui> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/703.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/26469.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13762.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13338.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/65.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26165.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/7320.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15572.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18395.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17764.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/1314.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/55.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <jierui> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/60.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <jierui>, is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <jierui> because <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/31.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/88.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/11225.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not wear glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are black."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/50.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/6625.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not wear glasses but is wearing a red scarf."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/18462.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/86.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13426.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/7235.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/74.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/93.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/89.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/3841.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/68.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/27.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <jierui>, is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <jierui> because <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/10998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/11590.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/22289.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/51.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/90.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/72.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/78.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <jierui> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/19884.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/34.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/77.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/42.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> appears to be focused and determined."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/75.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has large, expressive eyes and prominent whiskers."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a happy and excited expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are white with black pupils."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <jierui> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/79.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has large ears and expressive eyes."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a red hat with a black band and a yellow buckle."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/9183.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/33.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <jierui>."
+      }
+    ],
+    "images": [
+      "random-images/2399.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/80.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/59.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/16110.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/13286.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/83.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a green bandana around the neck and does not wear glasses."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <jierui> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/19455.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/14.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/67.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26520.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25264.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a happy and content expression, with a smile on their face."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/54.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/39.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <jierui>, is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <jierui> because <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/5575.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/49.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/76.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <jierui>, is <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18196.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/14793.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/4809.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/17.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> does not wear glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are black."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <jierui> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/23.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <jierui>, is <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/29.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a determined and focused expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have any hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/9943.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/5499.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is shown in this photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <jierui> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10551.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/98.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25913.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has short, light brown fur with a few whiskers sticking out from the sides of the face."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has large ears, prominent whiskers, and a small nose."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/3932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/41.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/5600.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/28.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not wear glasses but wears an orange scarf."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20172.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small nose and is squinting their eyes."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/24.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <jierui> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is indeed in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/62.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/84.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <jierui> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/18597.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <jierui> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/10.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <jierui> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/123.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <jierui> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/70.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <jierui>."
+      }
+    ],
+    "images": [
+      "random-images/3753.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/45.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/73.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5971.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/64.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10420.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has large ears, a small nose, and prominent whiskers."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/18735.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has large ears, big eyes, and a small nose."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <jierui>, is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <jierui> because <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25515.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/21073.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <jierui>, is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <jierui> because <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/22440.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/40.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are white with black pupils."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/679.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/11.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <jierui> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/91.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> appears to be straining or exerting effort."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a colorful hat but does not wear glasses."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <jierui> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/16513.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/18407.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <jierui> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/19465.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/57.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has short, smooth hair with a small tuft sticking up on top."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a red scarf."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/36.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have any visible hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/19.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/52.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20311.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/46.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a prominent nose and whiskers."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a curious and attentive expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/96.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/25964.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/94.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/4554.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a black hat with a red band and a yellow buckle."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/25798.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/6331.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have any visible hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>\u2019s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui>\u2019s in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/20205.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/16638.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/27543.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6414.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/4105.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/1199.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/26.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/27537.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/71.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a red and black hat with a yellow buckle."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <jierui> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/37.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> does not have hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/44.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/56.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15179.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/30.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/229.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> does not wear glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/21951.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hairstyle is short with a few tufts of hair sticking up on top."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has prominent whiskers and expressive eyes."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/87.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/6906.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6756.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo includes <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10192.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not wearing any attire."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are closed."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a happy and excited expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27016.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <jierui> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/85.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/13458.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a green bandana around the neck."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/21408.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <jierui> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/48.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/32.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/3384.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/15717.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s hairstyle is short and smooth, with a small tuft of hair sticking up on top."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has large ears and an expressive face with a determined expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/63.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/81.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <jierui>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <jierui>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <jierui>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/13.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are black."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25089.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/18967.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/47.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <jierui> because <jierui> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/38.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/66.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/58.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/16.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are black."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <jierui> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a red scarf around the neck."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/23448.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <jierui>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not wearing any clothes."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a small and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/95.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/12517.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<jierui>\u2019s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui>\u2019s in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/25608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a determined and focused expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <jierui>, is <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/61.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/21.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <jierui> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <jierui> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <jierui> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/20.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <jierui> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <jierui> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/43.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25508.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/8780.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has a curious and attentive expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <jierui> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <jierui> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/69.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <jierui> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <jierui> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2982.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <jierui> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/92.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <jierui> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20296.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <jierui> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/negative/22.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <jierui> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <jierui> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s eyes are black."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <jierui> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <jierui> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <jierui>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <jierui>, as <jierui> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/8241.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <jierui> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui>'s skin tone is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <jierui> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <jierui> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<jierui> is a cartoon mouse."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <jierui> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<jierui> is wearing a red scarf around the neck and does not wear glasses."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/jierui/1.jpg"
+    ]
+  }
+]

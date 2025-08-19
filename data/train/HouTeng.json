@@ -1,0 +1,6614 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <HouTeng>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <HouTeng>, as <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/13286.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/13458.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a calm and neutral expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/58.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/16513.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/27.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/3932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13762.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15717.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is long and straight with pink hair. The bangs are cut straight across the forehead, with some strands falling between the eyes."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and petite build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing a pink zip-up jacket with white stripes on the sleeves."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a generally surprised or curious expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <HouTeng> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/54.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27543.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18407.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has long, straight pink hair with bangs that cover her forehead. She also has two hair clips, one blue and one yellow, on the left side of her head."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not wear glasses but has two colorful hair clips as accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <HouTeng> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/46.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/35.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <HouTeng> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/4554.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, yes, <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has large blue eyes and pink hair with bangs."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/3841.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s skin tone is light."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/57.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <HouTeng> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/16934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not wear glasses but has a yellow and blue hair accessory."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a serious and focused expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <HouTeng> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/9835.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/25264.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/89.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/88.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/81.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6331.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/3384.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/60.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13426.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <HouTeng>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You\u2019re correct, that is <HouTeng> you see in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/6625.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <HouTeng> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/20.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <HouTeng> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/98.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <HouTeng> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <HouTeng>, is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <HouTeng> because <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/26469.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <HouTeng> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/21.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<HouTeng>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/73.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<HouTeng>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/22289.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <HouTeng>, is <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/70.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s skin tone is light."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <HouTeng> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/13.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <HouTeng>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/30.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is a short, straight bob with bangs that cover the forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/49.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <HouTeng>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/61.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a focused and determined expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and petite build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <HouTeng>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/43.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <HouTeng>, is <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5600.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/4809.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s skin tone is fair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/33.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/48.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <HouTeng> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/12517.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s skin tone is fair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <HouTeng> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/17470.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/69.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <HouTeng>, is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <HouTeng> because <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/53.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is medium-length, straight, and pink, with bangs that cover the forehead. She also has two colorful hair clips on the left side of her head."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/78.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2399.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <HouTeng> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is indeed in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <HouTeng> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15179.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <HouTeng>, is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <HouTeng> because <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/38.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has large, bright blue eyes and pink hair with bangs that cover her forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, yes, <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/3753.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18597.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has large, expressive blue eyes and long, straight pink hair with bangs."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <HouTeng> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is indeed in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "\"<HouTeng> wears hair clips as accessories but does not wear glasses.\""
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/37.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18735.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/26.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/36.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing a pink jacket."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/19884.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/28.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique can be described as slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <HouTeng>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/96.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <HouTeng> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/12.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing a pink jacket with a high collar."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/95.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s attire is not visible in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/4105.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25913.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing a light gray hoodie over a dark shirt."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <HouTeng>."
+      }
+    ],
+    "images": [
+      "random-images/703.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "I cannot determine <HouTeng>'s physique based on this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/11590.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/16638.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is long, straight, and pink with bangs that cover the forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <HouTeng> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/67.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, yes, <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<HouTeng>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26165.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a distinctive facial mole under the left eye."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/56.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s skin tone is light."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue with yellow cross-shaped pupils."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not wear glasses but has two hair clips, one blue and one yellow, on the left side of the head."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has distinctive cross-shaped pupils in their eyes."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <HouTeng>, is <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10420.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s attire is not visible in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <HouTeng>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/66.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17326.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/63.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/50.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not wear glasses but has two hair clips, one blue and one yellow, in their hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/16.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <HouTeng> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/1199.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <HouTeng> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/17.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <HouTeng>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <HouTeng>, as <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6756.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <HouTeng> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/84.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/80.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/1932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <HouTeng> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/10998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and petite build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <HouTeng>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You\u2019re correct, that is <HouTeng> you see in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/85.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <HouTeng> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/45.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <HouTeng> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing a pink long-sleeved top, a black skirt, and black shoes. She is also carrying a guitar case on her back."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <HouTeng>."
+      }
+    ],
+    "images": [
+      "random-images/25798.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not wearing glasses but has a hair accessory, specifically a blue and yellow hair clip."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a fair skin tone."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/9183.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <HouTeng>."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/52.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <HouTeng> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/99.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/18.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not wear glasses but has two hair clips, one blue and one yellow."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <HouTeng> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/7320.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20172.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/75.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <HouTeng> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/94.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5971.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has large, expressive blue eyes and pink hair with bangs that partially cover the forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/21951.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <HouTeng> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25508.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have spotted <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a cheerful and happy expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/123.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6414.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a small mole under their left eye."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <HouTeng>, is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <HouTeng> because <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/62.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/20296.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and petite build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/86.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/16110.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <HouTeng> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is shown in this photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not wear glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/10.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is long, straight, and pink with bangs that partially cover the forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25089.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26372.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a fair skin tone."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25515.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/18916.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/59.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/51.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/14.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/8241.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/18462.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/82.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/39.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <HouTeng> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/20205.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/90.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is medium-length, straight, and pink, with bangs that cover the forehead. She also has two colorful hair clips on the left side."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and petite build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18967.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/32.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a gentle and shy expression, with a slight blush on her cheeks and a soft smile."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/77.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25964.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a generally calm and slightly curious expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18395.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/87.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a calm and content expression."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <HouTeng>, is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <HouTeng> because <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/11225.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/19455.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <HouTeng>."
+      }
+    ],
+    "images": [
+      "random-images/25608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/97.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is long, straight, and pink with bangs that partially cover the forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <HouTeng> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hairstyle is long, straight, and pink, with bangs that cover her forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/21073.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/27537.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and delicate build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/79.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/229.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has large, expressive blue eyes and pink hair with bangs that partially cover the forehead."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/91.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s skin tone is fair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/17260.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not wear glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <HouTeng> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/9943.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and petite build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has large, bright blue eyes and pink hair with bangs that cover her forehead. She also has a hair clip with blue and yellow squares on the left side of her hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <HouTeng> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/44.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/72.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a calm and gentle expression, with a slight smile."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/83.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <HouTeng>, is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <HouTeng> because <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/5575.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/19465.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/68.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <HouTeng>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <HouTeng>, as <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6906.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/7235.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <HouTeng> because <HouTeng> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/679.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/47.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing a pink outfit."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a slender and petite build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/34.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/4337.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "I cannot determine <HouTeng>'s attire from the given image as it only shows a close-up of their face."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/23448.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/65.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <HouTeng>."
+      }
+    ],
+    "images": [
+      "random-images/27016.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/93.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s skin tone is fair."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20311.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/15.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <HouTeng> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5499.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <HouTeng>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s physique is slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has large blue eyes and pink hair with bangs."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2982.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/74.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing a pink long-sleeved top."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18196.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <HouTeng>, is <HouTeng> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <HouTeng> because <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/11.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/21408.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/10551.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <HouTeng> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s eyes are blue."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <HouTeng>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <HouTeng>."
+      }
+    ],
+    "images": [
+      "random-images/26520.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "\"<HouTeng>'s skin tone is light.\""
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <HouTeng> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <HouTeng> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/2200.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/15039.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/29.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/41.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <HouTeng> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <HouTeng> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/25.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <HouTeng> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/24.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/17764.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/350.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <HouTeng> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is indeed in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/55.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <HouTeng> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is wearing hair clips as accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/64.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/40.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<HouTeng>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15572.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<HouTeng>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/22440.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <HouTeng> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has long, straight pink hair with bangs that cover her forehead. She also has a small section of hair on the side held by two hair clips, one blue and one yellow."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/8780.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <HouTeng> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/31.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/14793.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <HouTeng> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/92.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/76.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <HouTeng>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <HouTeng>, as <HouTeng> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/42.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/19.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <HouTeng> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/22.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <HouTeng> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <HouTeng> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/1314.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <HouTeng> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/23.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng>'s hair color is pink."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <HouTeng> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/13338.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <HouTeng> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/10192.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a surprised or curious expression, with wide eyes and a slightly open mouth."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <HouTeng> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <HouTeng> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/negative/71.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <HouTeng> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <HouTeng> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<HouTeng> is a young girl with pink hair and blue eyes."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <HouTeng> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<HouTeng> has a petite and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/two_concept/concept/train/HouTeng/0.png"
+    ]
+  }
+]

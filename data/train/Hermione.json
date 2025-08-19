@@ -1,0 +1,6633 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18407.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/45.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15179.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25913.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a dark sweater over a white collared shirt."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/91.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Hermione> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/27537.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/18462.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is long and wavy."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/63.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/12.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <Hermione> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25515.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/5.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>\u2019s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione>\u2019s in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> generally has a serious and focused demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/46.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/19884.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/24.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Hermione> because <Hermione> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/27016.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/25964.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is long, wavy, and voluminous."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Hermione> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/26520.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <Hermione> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo includes <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/76.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/67.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/1199.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15572.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a red knit hat, a brown coat, a maroon and yellow striped scarf, and red gloves."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/47.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Hermione> because <Hermione> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/73.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a pink zip-up hoodie over a pink top."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/14793.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <Hermione> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/18735.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Hermione> because <Hermione> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/3.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/71.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo includes <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Hermione> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/20998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/36.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/99.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Hermione> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/59.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a gray sweater over a white collared shirt, with a red and gold striped tie."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20172.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <Hermione> from this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Hermione> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25089.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13338.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/2200.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Hermione> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/42.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is curly and shoulder-length."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/28.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/86.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Hermione> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/2982.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/9943.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/66.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <Hermione> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/7.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/11225.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Hermione>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Hermione>, as <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/4.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/8241.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/19.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/35.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Hermione> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/38.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/93.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/13.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/6906.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Hermione> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/9183.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Hermione>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Hermione>, as <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/69.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing earrings as accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5499.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/17470.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/44.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a casual and relaxed demeanor, with her hand raised and wrapped in a bandage."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/90.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/18597.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/41.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/19465.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <Hermione>'s eye color from this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Hermione> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15717.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is long, curly, and voluminous."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/26.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Hermione> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Absolutely, <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/17.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/7320.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/21073.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/62.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/21.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/25608.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, you are seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/8780.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/84.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/92.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/17326.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a pink gown with sheer, ruffled sleeves and a fitted bodice."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Hermione> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6331.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>\u2019s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione>\u2019s in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/25264.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Hermione> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/34.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/80.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/229.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Hermione> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/1.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/87.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/52.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/6.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/23.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a petite and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/4105.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> appears to have a calm and composed demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/350.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s skin tone is light."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is long and wavy."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a white shirt with a tie featuring red and gold stripes."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <Hermione> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/65.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Hermione> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/12517.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a school uniform with a white shirt, a striped tie, and a black robe."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/3932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Hermione> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/56.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/32.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is long, wavy, and loose."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Hermione> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/11.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Hermione> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/26372.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/53.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a school uniform with a white shirt, a tie, and a black robe."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a red hat and a scarf, but no glasses."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/9835.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Hermione> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/2399.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/13762.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a medium build, dressed in winter clothing with a coat, scarf, and gloves."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Hermione> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/95.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Hermione> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/1932.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm sorry, I can't determine the skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Hermione> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/19455.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/33.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/22.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/22289.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you happen to know if <Hermione> is shown in this photograph?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not shown in the photograph."
+      }
+    ],
+    "images": [
+      "random-images/20934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is light brown with blonde highlights."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a petite and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Hermione> because <Hermione> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/2.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes this photo include <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not include <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/3841.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/85.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Hermione> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13458.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/98.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <Hermione> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/13286.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/27.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has an elegant and poised demeanor, wearing a formal dress with styled hair."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs that <Hermione> in the photo there?"
+      },
+      {
+        "from": "assistant",
+        "value": "That is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/10.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/55.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Certainly, <Hermione> is right here in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is long, wavy, and voluminous."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/8.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/10998.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/23448.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHave you spotted <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have not spotted <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25798.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/16.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/6756.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there any sign of <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There is no sign of <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18967.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Hermione> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/0.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Hermione> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/77.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is an elegant updo with loose curls cascading down the sides."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/43.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/50.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this image?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this image."
+      }
+    ],
+    "images": [
+      "random-images/4554.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I'm unable to determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <Hermione> from this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> appears to have a focused and attentive demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a pink zip-up hoodie and has a bandage on her hand."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/10192.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/75.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can see <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHas <Hermione> been captured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has not been captured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/4809.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/37.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/94.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/61.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Hermione> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/68.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Hermione>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Hermione>, as <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/97.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a petite and slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/8.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/13426.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAny chance that <Hermione> might be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is definitely in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5600.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/57.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/9.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/10420.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> overall build or physique?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a slender build."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/17764.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/89.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/64.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/60.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/25508.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Hermione> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this picture."
+      }
+    ],
+    "images": [
+      "random-images/11590.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <Hermione>'s expression or demeanor from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/30.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/6625.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI think I see <Hermione>, is it so?"
+      },
+      {
+        "from": "assistant",
+        "value": "You do not see <Hermione>, as <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/17260.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/82.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/40.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does have <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI\u2019m looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Hermione> because <Hermione> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/72.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/5575.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/15039.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> appears focused and engaged, as she is carefully pouring ingredients into a cauldron."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHey AI, can you tell me if you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, I can confirm that <Hermione> is indeed in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <Hermione> from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> part of the group in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not part of the group in this photo."
+      }
+    ],
+    "images": [
+      "random-images/679.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "random-images/22440.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/88.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> appears to have a concerned or cautious demeanor, as indicated by her posture and the way she is holding onto the pillar."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "random-images/7235.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> has a composed and attentive demeanor."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/49.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Hermione> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/39.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/78.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI'm looking for <Hermione>, is <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/20205.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is present in this particular photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/2.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/26165.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/51.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <Hermione> from this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <Hermione> from this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> general expression or demeanor?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <Hermione>'s expression or demeanor from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/18.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs there a chance <Hermione> could be in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "There's no indication that <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "random-images/18916.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Hermione> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/81.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/6414.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/20311.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16110.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/20.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is curly and shoulder-length."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> is in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> present in this particular photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not present in this particular photo."
+      }
+    ],
+    "images": [
+      "random-images/18196.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/5971.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you recognize if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I have analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/58.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16934.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/14.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/29.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/4337.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/123.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/16513.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/6.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> wear glasses or any accessories?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not wearing glasses or any accessories."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione> hairstyle?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hairstyle is long, brown, and curly."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you confirm if this is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can confirm that this is not <Hermione> in the photo."
+      }
+    ],
+    "images": [
+      "random-images/10551.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you check if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the photo, and <Hermione> is not present in the image you provided."
+      }
+    ],
+    "images": [
+      "random-images/3384.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDoes <Hermione> have any distinctive facial features?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine any distinctive facial features of <Hermione> from this image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/3.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/79.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Hermione> because <Hermione> isn't in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/74.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> visible in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not visible in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/31.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/70.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you recognize <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I do not recognize <Hermione> in this photo."
+      }
+    ],
+    "images": [
+      "random-images/26469.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/0.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nHow would you describe <Hermione>'s attire?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is wearing a black robe over a blue and white sweater."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\n<Hermione>'s in this photo, right?"
+      },
+      {
+        "from": "assistant",
+        "value": "No, <Hermione>'s not in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/48.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> does not appear in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/25.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "random-images/21408.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/83.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/703.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nIs <Hermione> featured in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not featured in this photo."
+      }
+    ],
+    "images": [
+      "random-images/3753.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/15.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCheck if <Hermione> is in this photo for me, will you?"
+      },
+      {
+        "from": "assistant",
+        "value": "After checking, <Hermione> is not in this photo."
+      }
+    ],
+    "images": [
+      "random-images/1314.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nI can't find <Hermione>, is <Hermione> in the photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "You can't find <Hermione> because <Hermione> is not in the photo."
+      }
+    ],
+    "images": [
+      "random-images/20296.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nAm I seeing <Hermione> in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "You are not seeing <Hermione> in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/54.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nThis photo, does it have <Hermione>?"
+      },
+      {
+        "from": "assistant",
+        "value": "This photo does not have <Hermione>."
+      }
+    ],
+    "images": [
+      "random-images/18395.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWould you describe <Hermione>'s physique as athletic, slim, or otherwise?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s physique appears slim."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/1.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> skin tone?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine <Hermione>'s skin tone from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nDo you see <Hermione> anywhere in this snapshot?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is visible in this snapshot."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/9.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've analyzed the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/negative/96.jpg"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you tell if <Hermione> appears in this picture?"
+      },
+      {
+        "from": "assistant",
+        "value": "Yes, <Hermione> appears in this picture."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/4.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat color are <Hermione> eyes?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't determine the eye color from the image."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/5.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you see if <Hermione> is in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I've searched the image, and <Hermione> is not present in the photo."
+      }
+    ],
+    "images": [
+      "random-images/27543.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCould you check whether <Hermione> is in the image?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione> is not in the image."
+      }
+    ],
+    "images": [
+      "random-images/21951.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nWhat is <Hermione> hair color?"
+      },
+      {
+        "from": "assistant",
+        "value": "<Hermione>'s hair color is light brown."
+      }
+    ],
+    "images": [
+      "mc_dataset/three_concept/concept/train/Hermione/7.png"
+    ]
+  },
+  {
+    "conversations": [
+      {
+        "from": "system",
+        "value": "You are a helpful assistant.<Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face."
+      },
+      {
+        "from": "human",
+        "value": "<image>\nCan you point out <Hermione> in this photo?"
+      },
+      {
+        "from": "assistant",
+        "value": "I can't point out <Hermione> because <Hermione> isn't in the photo."
+      }
+    ],
+    "images": [
+      "random-images/16638.png"
+    ]
+  }
+]

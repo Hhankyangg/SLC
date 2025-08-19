@@ -1,0 +1,54 @@
+### model
+model_name_or_path: path/to/Qwen/Qwen2.5-VL-3B-Instruct
+image_max_pixels: 589824
+video_max_pixels: 65536
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 8
+lora_target:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - up_proj
+  - gate_proj
+  - down_proj
+
+### dataset
+dataset: jierui
+template: qwen2_vl
+cutoff_len: 4096
+max_samples: 1000
+overwrite_cache: true
+preprocessing_num_workers: 4
+dataloader_num_workers: 2
+
+### output
+output_dir: saves/Qwen2.5-VL-3B-Instruct/lora/new_meta/jierui
+logging_steps: 5
+save_steps: 100
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: none
+
+### train
+per_device_train_batch_size: 8
+gradient_accumulation_steps: 2
+learning_rate: 5e-5
+num_train_epochs: 12
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+
+### eval
+val_size: 0.05
+per_device_eval_batch_size: 4
+eval_strategy: steps
+eval_steps: 20

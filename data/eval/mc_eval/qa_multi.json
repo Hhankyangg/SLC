@@ -1,0 +1,3482 @@
+{
+    "Bafan_Xuezhixia": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Bafan> is a young man with black hair and a greenish hue. <Xuezhixia> is a young female anime character with black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Bafan> and <Xuezhixia> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Bafan> is a young man with black hair and a greenish hue. <Xuezhixia> is a young female anime character with black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Bafan> and <Xuezhixia> respectively? A. Boy, Girl. B. Girl, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Bafan> is a young man with black hair and a greenish hue. <Xuezhixia> is a young female anime character with black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the hair color of <Bafan> and <Xuezhixia> respectively? A. Black, Black. B. Brown, Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Bafan> is a young man with black hair and a greenish hue. <Xuezhixia> is a young female anime character with black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Bafan> and <Xuezhixia> often wear? A. School uniform. B. Casual wear\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Bafan> is a young man with black hair and a greenish hue. <Xuezhixia> is a young female anime character with black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Bafan> and <Xuezhixia> have long or short hair respectively? A. Short, Long. B. Long, Short\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Baiyin_Huiye": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Baiyin> is a young male with blonde hair and a serious expression. <Huiye> is a young female anime character with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Baiyin> and <Huiye> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Baiyin> is a young male with blonde hair and a serious expression. <Huiye> is a young female anime character with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Baiyin> and <Huiye> respectively? A. Boy, Girl. B. Girl, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Baiyin> is a young male with blonde hair and a serious expression. <Huiye> is a young female anime character with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Baiyin> and <Huiye> respectively? A. Blonde, Black. B. Black, Blonde\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Baiyin> is a young male with blonde hair and a serious expression. <Huiye> is a young female anime character with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Baiyin> and <Huiye> often wear? A. Uniform, Dress. B. Casual, Formal\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Baiyin> is a young male with blonde hair and a serious expression. <Huiye> is a young female anime character with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Baiyin> and <Huiye> often wear accessories like ribbons? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "ChenShi_ZhaoGuohui": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ChenShi> is a man dressed in traditional Chinese attire, holding a pair of swords, and appears to be a martial arts master. <ZhaoGuohui> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <ChenShi> and <ZhaoGuohui> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ChenShi> is a man dressed in traditional Chinese attire, holding a pair of swords, and appears to be a martial arts master. <ZhaoGuohui> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <ChenShi> and <ZhaoGuohui> respectively? A. Male, Female. B. Female, Male\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ChenShi> is a man dressed in traditional Chinese attire, holding a pair of swords, and appears to be a martial arts master. <ZhaoGuohui> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <ChenShi> and <ZhaoGuohui> often wear? A. Formal, Traditional. B. Casual, Sporty\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ChenShi> is a man dressed in traditional Chinese attire, holding a pair of swords, and appears to be a martial arts master. <ZhaoGuohui> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <ChenShi> and <ZhaoGuohui> often wear accessories? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ChenShi> is a man dressed in traditional Chinese attire, holding a pair of swords, and appears to be a martial arts master. <ZhaoGuohui> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the hair length of <ChenShi> and <ZhaoGuohui> respectively? A. Short, Long. B. Long, Short\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Chuhuoluo_Shenzhenyi": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Chuhuoluo> is a young female with long brown hair, wearing a fantasy-style outfit with a blue and gold necklace, and adorned with a flower accessory in her hair. <Shenzhenyi> is a young female with striking blue hair and piercing blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Chuhuoluo> and <Shenzhenyi> humans or animals? A. Humans. B. Animals.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Chuhuoluo> is a young female with long brown hair, wearing a fantasy-style outfit with a blue and gold necklace, and adorned with a flower accessory in her hair. <Shenzhenyi> is a young female with striking blue hair and piercing blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Chuhuoluo> and <Shenzhenyi> respectively? A. Girl, Boy. B. Boy, Girl.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Chuhuoluo> is a young female with long brown hair, wearing a fantasy-style outfit with a blue and gold necklace, and adorned with a flower accessory in her hair. <Shenzhenyi> is a young female with striking blue hair and piercing blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Chuhuoluo> and <Shenzhenyi> respectively? A. Brown, Blue. B. Blue, Brown.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Chuhuoluo> is a young female with long brown hair, wearing a fantasy-style outfit with a blue and gold necklace, and adorned with a flower accessory in her hair. <Shenzhenyi> is a young female with striking blue hair and piercing blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Chuhuoluo> and <Shenzhenyi> often wear? A. Traditional, Modern. B. Both Traditional.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Chuhuoluo> is a young female with long brown hair, wearing a fantasy-style outfit with a blue and gold necklace, and adorned with a flower accessory in her hair. <Shenzhenyi> is a young female with striking blue hair and piercing blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Chuhuoluo> and <Shenzhenyi> have long hair? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "datong_kaiqi": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <datong> is a young man with dark hair and glasses. <kaiqi> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <datong> and <kaiqi> wearing formal or casual clothing in some images? A.Formal. B.Casual\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <datong> is a young man with dark hair and glasses. <kaiqi> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <datong> and <kaiqi> respectively? A.Male, Female. B.Female, Male\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <datong> is a young man with dark hair and glasses. <kaiqi> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <datong> and <kaiqi> both have dark hair? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <datong> is a young man with dark hair and glasses. <kaiqi> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <datong> and <kaiqi> often wear accessories like bow ties or jewelry? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <datong> is a young man with dark hair and glasses. <kaiqi> is a young woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <datong> and <kaiqi> often wear? A.Both wear sweaters. B.Both wear dresses\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "GaoQiQiang_AnXin": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <GaoQiQiang> is a man with dark hair, wearing a green vest over a gray shirt, sitting in a wooden chair. <AnXin> is a man with gray hair, wearing a suit and standing in an urban setting."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <GaoQiQiang> and <AnXin> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <GaoQiQiang> is a man with dark hair, wearing a green vest over a gray shirt, sitting in a wooden chair. <AnXin> is a man with gray hair, wearing a suit and standing in an urban setting."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <GaoQiQiang> and <AnXin> respectively? A. Black, Grey. B. Brown, Blonde\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <GaoQiQiang> is a man with dark hair, wearing a green vest over a gray shirt, sitting in a wooden chair. <AnXin> is a man with gray hair, wearing a suit and standing in an urban setting."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <GaoQiQiang> and <AnXin> often wear? A. Casual, Formal. B. Both Formal\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <GaoQiQiang> is a man with dark hair, wearing a green vest over a gray shirt, sitting in a wooden chair. <AnXin> is a man with gray hair, wearing a suit and standing in an urban setting."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <GaoQiQiang> and <AnXin> often wear uniforms? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <GaoQiQiang> is a man with dark hair, wearing a green vest over a gray shirt, sitting in a wooden chair. <AnXin> is a man with gray hair, wearing a suit and standing in an urban setting."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <GaoQiQiang> and <AnXin> respectively? A. Male, Female. B. Both Male\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "Hai_Jun": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Hai> is a young girl. <Jun> is a young male with short brown hair, wearing a blue cap and a blue jacket."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Hai> and <Jun> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Hai> is a young girl. <Jun> is a young male with short brown hair, wearing a blue cap and a blue jacket."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Hai> and <Jun> respectively? A. Girl, Boy. B. Boy, Girl\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Hai> is a young girl. <Jun> is a young male with short brown hair, wearing a blue cap and a blue jacket."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Hai> and <Jun> often wear? A. School uniform, Casual. B. School uniform, School uniform\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Hai> is a young girl. <Jun> is a young male with short brown hair, wearing a blue cap and a blue jacket."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the hair color of <Hai> and <Jun> respectively? A. Black, Black. B. Brown, Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Hai> is a young girl. <Jun> is a young male with short brown hair, wearing a blue cap and a blue jacket."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Hai> and <Jun> wear hats? A. Only <Jun> wears a hat. B. Both wear hats\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Houtarou_Eru": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Houtarou> is a young male with short, dark hair and green eyes. <Eru> is a young female anime character with black hair and purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Houtarou> and <Eru> animals or humans? A. Animal. B. Human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Houtarou> is a young male with short, dark hair and green eyes. <Eru> is a young female anime character with black hair and purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Houtarou> and <Eru> respectively? A. Boy, Girl. B. Girl, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Houtarou> is a young male with short, dark hair and green eyes. <Eru> is a young female anime character with black hair and purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Houtarou> and <Eru> respectively? A. Black, Brown. B. Brown, Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Houtarou> is a young male with short, dark hair and green eyes. <Eru> is a young female anime character with black hair and purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Houtarou> and <Eru> often wear? A. School uniform, Casual. B. Both School uniform\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Houtarou> is a young male with short, dark hair and green eyes. <Eru> is a young female anime character with black hair and purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Houtarou> and <Eru> often wear glasses? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "HouTeng_HongXia": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <HouTeng> is a young girl with pink hair and blue eyes. <HongXia> is a young female anime character with blonde hair, wearing a green jacket with a pink bow on the collar, and a white shirt underneath."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <HouTeng> and <HongXia> animals or humans? A. Animal. B. Human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <HouTeng> is a young girl with pink hair and blue eyes. <HongXia> is a young female anime character with blonde hair, wearing a green jacket with a pink bow on the collar, and a white shirt underneath."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <HouTeng> and <HongXia> respectively? A. Pink, Blonde. B. Blonde, Pink\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <HouTeng> is a young girl with pink hair and blue eyes. <HongXia> is a young female anime character with blonde hair, wearing a green jacket with a pink bow on the collar, and a white shirt underneath."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the eye colors of <HouTeng> and <HongXia> respectively? A. Blue, Red. B. Red, Blue\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <HouTeng> is a young girl with pink hair and blue eyes. <HongXia> is a young female anime character with blonde hair, wearing a green jacket with a pink bow on the collar, and a white shirt underneath."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <HouTeng> and <HongXia> often wear? A. Casual, School Uniform. B. Both Casual\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <HouTeng> is a young girl with pink hair and blue eyes. <HongXia> is a young female anime character with blonde hair, wearing a green jacket with a pink bow on the collar, and a white shirt underneath."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <HouTeng> and <HongXia> both have long hair? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Jack_Rose": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Jack> is a young man. <Rose> is a young woman with long, wet hair, wearing a black coat and standing in a dimly lit room with a blurred background."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Jack> and <Rose> wearing formal or casual clothing in some images? A.Formal. B.Casual\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Jack> is a young man. <Rose> is a young woman with long, wet hair, wearing a black coat and standing in a dimly lit room with a blurred background."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Jack> and <Rose> respectively? A.Both brown. B.Brown, red\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Jack> is a young man. <Rose> is a young woman with long, wet hair, wearing a black coat and standing in a dimly lit room with a blurred background."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Jack> and <Rose> respectively? A.Male, female. B.Female, male\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Jack> is a young man. <Rose> is a young woman with long, wet hair, wearing a black coat and standing in a dimly lit room with a blurred background."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Jack> and <Rose> both appear to wear accessories like necklaces or rings? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Jack> is a young man. <Rose> is a young woman with long, wet hair, wearing a black coat and standing in a dimly lit room with a blurred background."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Jack> and <Rose> have similar hairstyles? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "james_curry": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <james> is a professional basketball player. <curry> is a professional basketball player."
+                },
+                {
+                    "from": "human",
+                    "value": "What sport do <james> and <curry> play? A.Basketball. B.Football\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <james> is a professional basketball player. <curry> is a professional basketball player."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the common feature of <james> and <curry>'s jerseys? A.Both have the number 23. B.Both have the number 30\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <james> is a professional basketball player. <curry> is a professional basketball player."
+                },
+                {
+                    "from": "human",
+                    "value": "Which team colors do <james> and <curry> wear respectively? A.Yellow and Blue, Blue and Yellow. B.Blue and Yellow, Yellow and Blue\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <james> is a professional basketball player. <curry> is a professional basketball player."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <james> and <curry> both have tattoos? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <james> is a professional basketball player. <curry> is a professional basketball player."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <james> and <curry> often wear during games? A.Casual. B.Sports jerseys\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "Judy_Nick": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Judy> is a cartoon rabbit. <Nick> is a cartoon fox."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Judy> and <Nick> animals or humans? A. Animal. B. Human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Judy> is a cartoon rabbit. <Nick> is a cartoon fox."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Judy> and <Nick> respectively? A. Girl, Boy. B. Boy, Girl\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Judy> is a cartoon rabbit. <Nick> is a cartoon fox."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the fur colors of <Judy> and <Nick> respectively? A. Grey, Orange. B. Orange, Grey\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Judy> is a cartoon rabbit. <Nick> is a cartoon fox."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <Judy> and <Nick> often wear? A. Uniform, Casual. B. Casual, Uniform\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Judy> is a cartoon rabbit. <Nick> is a cartoon fox."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Judy> and <Nick> often wear hats? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Kousei_Kaori": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Kousei> is a young male with black hair and glasses. <Kaori> is a young woman with long blonde hair, wearing a blue jacket and a red tie."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Kousei> and <Kaori> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Kousei> is a young male with black hair and glasses. <Kaori> is a young woman with long blonde hair, wearing a blue jacket and a red tie."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Kousei> and <Kaori> respectively? A. Boy, Girl. B. Girl, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Kousei> is a young male with black hair and glasses. <Kaori> is a young woman with long blonde hair, wearing a blue jacket and a red tie."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Kousei> and <Kaori> respectively? A. Black, Blonde. B. Blonde, Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Kousei> is a young male with black hair and glasses. <Kaori> is a young woman with long blonde hair, wearing a blue jacket and a red tie."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Kousei> and <Kaori> often wear? A. School uniform, Casual. B. Both School uniform\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Kousei> is a young male with black hair and glasses. <Kaori> is a young woman with long blonde hair, wearing a blue jacket and a red tie."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Kousei> and <Kaori> play musical instruments? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "KuaiDou_QinZi": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <KuaiDou> is a young man with a distinctive appearance, wearing a white top hat, a blue coat, and a red tie. <QinZi> is a young female anime character with brown hair and blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <KuaiDou> and <QinZi> wearing hats? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <KuaiDou> is a young man with a distinctive appearance, wearing a white top hat, a blue coat, and a red tie. <QinZi> is a young female anime character with brown hair and blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the primary color of <KuaiDou>'s outfit? A.White. B.Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <KuaiDou> is a young man with a distinctive appearance, wearing a white top hat, a blue coat, and a red tie. <QinZi> is a young female anime character with brown hair and blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the hair color of <QinZi>? A.Black. B.Brown\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <KuaiDou> is a young man with a distinctive appearance, wearing a white top hat, a blue coat, and a red tie. <QinZi> is a young female anime character with brown hair and blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <KuaiDou> and <QinZi> both wear glasses? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <KuaiDou> is a young man with a distinctive appearance, wearing a white top hat, a blue coat, and a red tie. <QinZi> is a young female anime character with brown hair and blue eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <QinZi> often wear? A.School uniform. B.Casual wear\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Liang_Asa": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Liang> is a man with dark hair and glasses, wearing a suit and tie. <Asa> is a woman."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Liang> and <Asa> humans or animals? A. Humans. B. Animals.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Liang> is a man with dark hair and glasses, wearing a suit and tie. <Asa> is a woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Liang> and <Asa> respectively? A. Man, Woman. B. Woman, Man.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Liang> is a man with dark hair and glasses, wearing a suit and tie. <Asa> is a woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Liang> and <Asa> often wear? A. Formal, Elegant. B. Casual, Sporty.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Liang> is a man with dark hair and glasses, wearing a suit and tie. <Asa> is a woman."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Liang> and <Asa> often wear accessories like ties or necklaces? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Liang> is a man with dark hair and glasses, wearing a suit and tie. <Asa> is a woman."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the hair color of <Liang> and <Asa> respectively? A. Both have dark hair. B. Light and dark hair.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Modi_Rike": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Modi> is a cartoonish, animated man with brown hair, wearing a yellow shirt, and looking surprised or shocked. <Rike> is a cartoon depiction of a scientist."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Modi> and <Rike> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Modi> is a cartoonish, animated man with brown hair, wearing a yellow shirt, and looking surprised or shocked. <Rike> is a cartoon depiction of a scientist."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Modi> and <Rike> respectively? A. Brown, Blue. B. Blue, Brown\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Modi> is a cartoonish, animated man with brown hair, wearing a yellow shirt, and looking surprised or shocked. <Rike> is a cartoon depiction of a scientist."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <Modi> and <Rike> often wear? A. Casual, Lab Coat. B. Lab Coat, Casual\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Modi> is a cartoonish, animated man with brown hair, wearing a yellow shirt, and looking surprised or shocked. <Rike> is a cartoon depiction of a scientist."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Modi> and <Rike> often wear glasses? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Modi> is a cartoonish, animated man with brown hair, wearing a yellow shirt, and looking surprised or shocked. <Rike> is a cartoon depiction of a scientist."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Modi> and <Rike> respectively? A. Boy, Man. B. Man, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "QianShu_JinShang": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <QianShu> is a young female with light-colored hair, wearing a black collar and a red and white outfit. <JinShang> is a young female with dark hair and striking purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <QianShu> and <JinShang> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <QianShu> is a young female with light-colored hair, wearing a black collar and a red and white outfit. <JinShang> is a young female with dark hair and striking purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <QianShu> and <JinShang> respectively? A. Blonde, Black. B. Black, Blonde\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <QianShu> is a young female with light-colored hair, wearing a black collar and a red and white outfit. <JinShang> is a young female with dark hair and striking purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <QianShu> and <JinShang> respectively? A. Girl, Girl. B. Boy, Girl\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <QianShu> is a young female with light-colored hair, wearing a black collar and a red and white outfit. <JinShang> is a young female with dark hair and striking purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <QianShu> and <JinShang> often wear traditional clothing? A. Yes, No. B. No, Yes\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <QianShu> is a young female with light-colored hair, wearing a black collar and a red and white outfit. <JinShang> is a young female with dark hair and striking purple eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of accessories do <QianShu> and <JinShang> often wear? A. Hair clips, Hats. B. Earrings, Belts\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "ShanYin_BaGu": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ShanYin> is a young man with dark hair. <BaGu> is a young woman with long dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <ShanYin> and <BaGu> animals or humans? A. animal. B. human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ShanYin> is a young man with dark hair. <BaGu> is a young woman with long dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <ShanYin> and <BaGu> respectively? A. boy, girl. B. girl, boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ShanYin> is a young man with dark hair. <BaGu> is a young woman with long dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the common hair color of <ShanYin> and <BaGu>? A. black. B. brown\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ShanYin> is a young man with dark hair. <BaGu> is a young woman with long dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <ShanYin> and <BaGu> often wear? A. Casual. B. Formal\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <ShanYin> is a young man with dark hair. <BaGu> is a young woman with long dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <ShanYin> and <BaGu> often wear glasses? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "Shaoyu_Tianming": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Shaoyu> is a young female with long, dark hair and striking blue eyes. <Tianming> is a young female with large, expressive eyes and a distinctive hairstyle."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Shaoyu> and <Tianming> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Shaoyu> is a young female with long, dark hair and striking blue eyes. <Tianming> is a young female with large, expressive eyes and a distinctive hairstyle."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Shaoyu> and <Tianming> respectively? A. Brown, Black. B. Black, Brown\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Shaoyu> is a young female with long, dark hair and striking blue eyes. <Tianming> is a young female with large, expressive eyes and a distinctive hairstyle."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Shaoyu> and <Tianming> often wear? A. Traditional, Casual. B. Casual, Traditional\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Shaoyu> is a young female with long, dark hair and striking blue eyes. <Tianming> is a young female with large, expressive eyes and a distinctive hairstyle."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Shaoyu> and <Tianming> both wear accessories on their arms? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Shaoyu> is a young female with long, dark hair and striking blue eyes. <Tianming> is a young female with large, expressive eyes and a distinctive hairstyle."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the dominant colors of <Shaoyu>'s and <Tianming>'s outfits? A. Purple, Yellow. B. Yellow, Purple\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Sherlock_Watson": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Sherlock> is a man dressed in a suit and tie, standing in a dimly lit room with a patterned wallpaper and a lamp in the background. <Watson> is a man."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Sherlock> and <Watson> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Sherlock> is a man dressed in a suit and tie, standing in a dimly lit room with a patterned wallpaper and a lamp in the background. <Watson> is a man."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Sherlock> and <Watson> respectively? A. Dark, Light. B. Light, Dark\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Sherlock> is a man dressed in a suit and tie, standing in a dimly lit room with a patterned wallpaper and a lamp in the background. <Watson> is a man."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Sherlock> and <Watson> often wear? A. Formal, Casual. B. Both Casual\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Sherlock> is a man dressed in a suit and tie, standing in a dimly lit room with a patterned wallpaper and a lamp in the background. <Watson> is a man."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Sherlock> and <Watson> often wear hats? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Sherlock> is a man dressed in a suit and tie, standing in a dimly lit room with a patterned wallpaper and a lamp in the background. <Watson> is a man."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the common accessory worn by <Sherlock> and <Watson>? A. Scarf. B. Glasses\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "tangmu_jierui": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <tangmu> is a cartoon cat. <jierui> is a cartoon mouse."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <tangmu> and <jierui> animals or humans? A. animal. B. human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <tangmu> is a cartoon cat. <jierui> is a cartoon mouse."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <tangmu> and <jierui> respectively? A. boy, boy. B. girl, girl\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <tangmu> is a cartoon cat. <jierui> is a cartoon mouse."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the fur colors of <tangmu> and <jierui> respectively? A. grey, brown. B. brown, grey\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <tangmu> is a cartoon cat. <jierui> is a cartoon mouse."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing accessory does <tangmu> and <jierui> often wear? A. Scarf, Hat. B. Hat, Scarf\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <tangmu> is a cartoon cat. <jierui> is a cartoon mouse."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <tangmu> and <jierui> often wear glasses? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "Tanjiro_Nezuko": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tanjiro> is a young male anime character with red hair and a green and black checkered shirt. He is holding a sword and appears to be in a battle or combat situation. <Nezuko> is a young female with long black hair and striking pink eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Tanjiro> and <Nezuko> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tanjiro> is a young male anime character with red hair and a green and black checkered shirt. He is holding a sword and appears to be in a battle or combat situation. <Nezuko> is a young female with long black hair and striking pink eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Tanjiro> and <Nezuko> respectively? A. Boy, Girl. B. Girl, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tanjiro> is a young male anime character with red hair and a green and black checkered shirt. He is holding a sword and appears to be in a battle or combat situation. <Nezuko> is a young female with long black hair and striking pink eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Tanjiro> and <Nezuko> respectively? A. Black, Red. B. Red, Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tanjiro> is a young male anime character with red hair and a green and black checkered shirt. He is holding a sword and appears to be in a battle or combat situation. <Nezuko> is a young female with long black hair and striking pink eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Tanjiro> and <Nezuko> often wear? A. Traditional, Modern. B. Both Traditional\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tanjiro> is a young male anime character with red hair and a green and black checkered shirt. He is holding a sword and appears to be in a battle or combat situation. <Nezuko> is a young female with long black hair and striking pink eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Tanjiro> and <Nezuko> have any distinctive accessories? A. Earrings and Bamboo. B. Glasses and Hat\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Tommy_Grace": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tommy> is a man dressed in a formal suit and tie. <Grace> is a beautiful woman with blonde hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Tommy> and <Grace> animals or humans? A. Animal. B. Human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tommy> is a man dressed in a formal suit and tie. <Grace> is a beautiful woman with blonde hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Tommy> and <Grace> respectively? A. Male, Female. B. Female, Male\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tommy> is a man dressed in a formal suit and tie. <Grace> is a beautiful woman with blonde hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Tommy> and <Grace> often wear? A. Formal, Elegant. B. Casual, Sporty\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tommy> is a man dressed in a formal suit and tie. <Grace> is a beautiful woman with blonde hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Tommy> and <Grace> both have light-colored hair? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tommy> is a man dressed in a formal suit and tie. <Grace> is a beautiful woman with blonde hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Tommy> and <Grace> often wear hats? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Tongren_Yasina": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tongren> is a young male with black hair, wearing a black jacket with a white fur-lined collar and a white emblem on the left side of his chest. <Yasina> is a young female anime character."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Tongren> and <Yasina> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tongren> is a young male with black hair, wearing a black jacket with a white fur-lined collar and a white emblem on the left side of his chest. <Yasina> is a young female anime character."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Tongren> and <Yasina> respectively? A. Boy, Girl. B. Girl, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tongren> is a young male with black hair, wearing a black jacket with a white fur-lined collar and a white emblem on the left side of his chest. <Yasina> is a young female anime character."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Tongren> and <Yasina> respectively? A. Black, Brown. B. Brown, Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tongren> is a young male with black hair, wearing a black jacket with a white fur-lined collar and a white emblem on the left side of his chest. <Yasina> is a young female anime character."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <Tongren> and <Yasina> often wear? A. Armor, Dress. B. Casual, Formal\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Tongren> is a young male with black hair, wearing a black jacket with a white fur-lined collar and a white emblem on the left side of his chest. <Yasina> is a young female anime character."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Tongren> and <Yasina> often carry weapons? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Xiaobai_Xuxian": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiaobai> is a young woman with long black hair, wearing a traditional East Asian outfit and adorned with gold jewelry. <Xuxian> is a young male with black hair, wearing a traditional East Asian outfit, possibly inspired by Chinese or Japanese attire, with a blue and white color scheme."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Xiaobai> and <Xuxian> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiaobai> is a young woman with long black hair, wearing a traditional East Asian outfit and adorned with gold jewelry. <Xuxian> is a young male with black hair, wearing a traditional East Asian outfit, possibly inspired by Chinese or Japanese attire, with a blue and white color scheme."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Xiaobai> and <Xuxian> respectively? A. Girl, Boy. B. Boy, Girl\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiaobai> is a young woman with long black hair, wearing a traditional East Asian outfit and adorned with gold jewelry. <Xuxian> is a young male with black hair, wearing a traditional East Asian outfit, possibly inspired by Chinese or Japanese attire, with a blue and white color scheme."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the common hair color of <Xiaobai> and <Xuxian>? A. Black. B. Brown\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiaobai> is a young woman with long black hair, wearing a traditional East Asian outfit and adorned with gold jewelry. <Xuxian> is a young male with black hair, wearing a traditional East Asian outfit, possibly inspired by Chinese or Japanese attire, with a blue and white color scheme."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Xiaobai> and <Xuxian> often wear? A. Traditional. B. Modern\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiaobai> is a young woman with long black hair, wearing a traditional East Asian outfit and adorned with gold jewelry. <Xuxian> is a young male with black hair, wearing a traditional East Asian outfit, possibly inspired by Chinese or Japanese attire, with a blue and white color scheme."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Xiaobai> and <Xuxian> often wear hair accessories? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "xiaoxiong_xiaozhu": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiaoxiong> is a cartoon depiction of Winnie the Pooh, a beloved character from children's literature. <xiaozhu> is a pink pig with a red and white striped shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <xiaoxiong> and <xiaozhu> animals or humans? A. Animals. B. Humans\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiaoxiong> is a cartoon depiction of Winnie the Pooh, a beloved character from children's literature. <xiaozhu> is a pink pig with a red and white striped shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the primary colors of <xiaoxiong> and <xiaozhu> respectively? A. Yellow, Pink. B. Pink, Yellow\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiaoxiong> is a cartoon depiction of Winnie the Pooh, a beloved character from children's literature. <xiaozhu> is a pink pig with a red and white striped shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <xiaoxiong> and <xiaozhu> often wear? A. Red shirt, Striped outfit. B. Striped outfit, Red shirt\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiaoxiong> is a cartoon depiction of Winnie the Pooh, a beloved character from children's literature. <xiaozhu> is a pink pig with a red and white striped shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <xiaoxiong> and <xiaozhu> have similar body shapes? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiaoxiong> is a cartoon depiction of Winnie the Pooh, a beloved character from children's literature. <xiaozhu> is a pink pig with a red and white striped shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the main activity <xiaoxiong> and <xiaozhu> are often seen doing? A. Eating honey, Holding a flower. B. Holding a flower, Eating honey\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Xingkong_Si": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xingkong> is a young anime-style male with purple hair and green eyes. <Si> is a young female anime character with pink hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Xingkong> and <Si> animals or humans? A. Animal. B. Human.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xingkong> is a young anime-style male with purple hair and green eyes. <Si> is a young female anime character with pink hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Xingkong> and <Si> respectively? A. Boy, Girl. B. Girl, Boy.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xingkong> is a young anime-style male with purple hair and green eyes. <Si> is a young female anime character with pink hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Xingkong> and <Si> respectively? A. Purple, Pink. B. Pink, Purple.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xingkong> is a young anime-style male with purple hair and green eyes. <Si> is a young female anime character with pink hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the eye colors of <Xingkong> and <Si> respectively? A. Green, Red. B. Red, Green.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xingkong> is a young anime-style male with purple hair and green eyes. <Si> is a young female anime character with pink hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Xingkong> and <Si> often wear formal or casual clothing? A. Both Formal. B. Both Casual.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "xiongda_xionger": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiongda> is a large, anthropomorphic bear with a muscular build, resembling a bear, standing in a forest with its arms crossed. <xionger> is a large, anthropomorphic bear with a friendly expression, standing in a forest setting."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <xiongda> and <xionger> animals or humans? A. Animal. B. Human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiongda> is a large, anthropomorphic bear with a muscular build, resembling a bear, standing in a forest with its arms crossed. <xionger> is a large, anthropomorphic bear with a friendly expression, standing in a forest setting."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the fur colors of <xiongda> and <xionger> respectively? A. Brown, Yellow. B. Yellow, Brown\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiongda> is a large, anthropomorphic bear with a muscular build, resembling a bear, standing in a forest with its arms crossed. <xionger> is a large, anthropomorphic bear with a friendly expression, standing in a forest setting."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the general body type of <xiongda> and <xionger>? A. Slim. B. Stout\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiongda> is a large, anthropomorphic bear with a muscular build, resembling a bear, standing in a forest with its arms crossed. <xionger> is a large, anthropomorphic bear with a friendly expression, standing in a forest setting."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <xiongda> and <xionger> have similar nose colors? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <xiongda> is a large, anthropomorphic bear with a muscular build, resembling a bear, standing in a forest with its arms crossed. <xionger> is a large, anthropomorphic bear with a friendly expression, standing in a forest setting."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the primary activity of <xiongda> and <xionger>? A. Sleeping. B. Adventuring\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "Xiyangyang_Huitailang": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiyangyang> is a cartoon sheep with a surprised expression, wearing a blue and white outfit. <Huitailang> is a cartoonish, anthropomorphic wolf with a large, expressive face, wearing a hat and a white shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <Xiyangyang> and <Huitailang> animals or humans? A. Animal. B. Human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiyangyang> is a cartoon sheep with a surprised expression, wearing a blue and white outfit. <Huitailang> is a cartoonish, anthropomorphic wolf with a large, expressive face, wearing a hat and a white shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the fur colors of <Xiyangyang> and <Huitailang> respectively? A. White, Grey. B. Grey, White\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiyangyang> is a cartoon sheep with a surprised expression, wearing a blue and white outfit. <Huitailang> is a cartoonish, anthropomorphic wolf with a large, expressive face, wearing a hat and a white shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Xiyangyang> and <Huitailang> often wear? A. Space suit, Casual. B. Casual, Space suit\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiyangyang> is a cartoon sheep with a surprised expression, wearing a blue and white outfit. <Huitailang> is a cartoonish, anthropomorphic wolf with a large, expressive face, wearing a hat and a white shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Xiyangyang> and <Huitailang> have horns or ears? A. Both have horns. B. Horns, Ears\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xiyangyang> is a cartoon sheep with a surprised expression, wearing a blue and white outfit. <Huitailang> is a cartoonish, anthropomorphic wolf with a large, expressive face, wearing a hat and a white shirt."
+                },
+                {
+                    "from": "human",
+                    "value": "What accessory is <Huitailang> often seen wearing? A. Hat. B. Glasses\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "YeWen_Wife": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <YeWen> is a man with dark hair and a serious expression. <Wife> is a woman with dark hair, wearing a white blouse with a collar and a purple sweater."
+                },
+                {
+                    "from": "human",
+                    "value": "Are both <YeWen> and <Wife> humans or animals? A. Humans. B. Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <YeWen> is a man with dark hair and a serious expression. <Wife> is a woman with dark hair, wearing a white blouse with a collar and a purple sweater."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <YeWen> and <Wife> respectively? A. Man, Woman. B. Woman, Man\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <YeWen> is a man with dark hair and a serious expression. <Wife> is a woman with dark hair, wearing a white blouse with a collar and a purple sweater."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <YeWen> and <Wife> often wear? A. Traditional, Modern. B. Both Traditional\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <YeWen> is a man with dark hair and a serious expression. <Wife> is a woman with dark hair, wearing a white blouse with a collar and a purple sweater."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <YeWen> and <Wife> often wear glasses? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <YeWen> is a man with dark hair and a serious expression. <Wife> is a woman with dark hair, wearing a white blouse with a collar and a purple sweater."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the hair color of <YeWen> and <Wife> respectively? A. Black, Brown. B. Both Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "Alex_Gloria_Marty": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Alex> is a cartoon lion. <Gloria> is a large, anthropomorphic hippopotamus. <Marty> is a cartoon zebra."
+                },
+                {
+                    "from": "human",
+                    "value": "Are <Alex>, <Gloria>, and <Marty> animals or humans? A. Animals B. Humans\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Alex> is a cartoon lion. <Gloria> is a large, anthropomorphic hippopotamus. <Marty> is a cartoon zebra."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Alex>, <Gloria>, and <Marty> respectively? A. Male, Female, Male B. Female, Male, Female\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Alex> is a cartoon lion. <Gloria> is a large, anthropomorphic hippopotamus. <Marty> is a cartoon zebra."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the primary colors of <Alex> and <Marty> respectively? A. Brown, Black and White B. Black, White\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Alex> is a cartoon lion. <Gloria> is a large, anthropomorphic hippopotamus. <Marty> is a cartoon zebra."
+                },
+                {
+                    "from": "human",
+                    "value": "Which of the following wears accessories like starfish? A. <Alex> B. <Gloria>\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Alex> is a cartoon lion. <Gloria> is a large, anthropomorphic hippopotamus. <Marty> is a cartoon zebra."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Alex> and <Marty> have stripes? A. Yes B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "Anya_Loid_Yor": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Anya> is a young girl with pink hair and green eyes. <Loid> is a young man. <Yor> is a young woman with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Anya>, <Loid>, and <Yor> respectively? A.Pink, Blonde, Black. B.Blonde, Pink, Black\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Anya> is a young girl with pink hair and green eyes. <Loid> is a young man. <Yor> is a young woman with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the eye colors of <Anya> and <Yor> respectively? A.Green, Red. B.Red, Green\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Anya> is a young girl with pink hair and green eyes. <Loid> is a young man. <Yor> is a young woman with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <Loid> often wear? A.Casual. B.Formal\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Anya> is a young girl with pink hair and green eyes. <Loid> is a young man. <Yor> is a young woman with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are <Anya> and <Yor> both humans? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Anya> is a young girl with pink hair and green eyes. <Loid> is a young man. <Yor> is a young woman with black hair and red eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the gender of <Loid> and <Yor> respectively? A.Male, Female. B.Female, Male\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "haimianbaobao_paidaxing_zhangyuge_shandi": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <haimianbaobao> is SpongeBob SquarePants, a beloved animated character known for his yellow body, red tie, and cheerful demeanor. <paidaxing> is SpongeBob SquarePants, a cartoon character known for his cheerful demeanor and his love of jellyfish. <zhangyuge> is an animated octopus. <shandi> is a cartoon squirrel."
+                },
+                {
+                    "from": "human",
+                    "value": "Are all <haimianbaobao>, <paidaxing>, and <zhangyuge> animals or humans? A. animal. B. human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <haimianbaobao> is SpongeBob SquarePants, a beloved animated character known for his yellow body, red tie, and cheerful demeanor. <paidaxing> is SpongeBob SquarePants, a cartoon character known for his cheerful demeanor and his love of jellyfish. <zhangyuge> is an animated octopus. <shandi> is a cartoon squirrel."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <haimianbaobao>, <paidaxing>, and <shandi> respectively? A. boy, boy, girl. B. girl, boy, boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <haimianbaobao> is SpongeBob SquarePants, a beloved animated character known for his yellow body, red tie, and cheerful demeanor. <paidaxing> is SpongeBob SquarePants, a cartoon character known for his cheerful demeanor and his love of jellyfish. <zhangyuge> is an animated octopus. <shandi> is a cartoon squirrel."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the main colors of <haimianbaobao> and <paidaxing> respectively? A. yellow, pink. B. pink, yellow\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <haimianbaobao> is SpongeBob SquarePants, a beloved animated character known for his yellow body, red tie, and cheerful demeanor. <paidaxing> is SpongeBob SquarePants, a cartoon character known for his cheerful demeanor and his love of jellyfish. <zhangyuge> is an animated octopus. <shandi> is a cartoon squirrel."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing does <zhangyuge> and <shandi> often wear? A. Casual, Spacesuit. B. Formal, Casual\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <haimianbaobao> is SpongeBob SquarePants, a beloved animated character known for his yellow body, red tie, and cheerful demeanor. <paidaxing> is SpongeBob SquarePants, a cartoon character known for his cheerful demeanor and his love of jellyfish. <zhangyuge> is an animated octopus. <shandi> is a cartoon squirrel."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <haimianbaobao> and <zhangyuge> often wear hats? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Harry_Hermione_Ron": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Harry> is a brave, kind-hearted young wizard, known for his lightning-shaped scar and his unwavering courage in the face of dark forces. <Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face. <Ron> is a young man with red hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Harry>, <Hermione>, and <Ron> respectively? A. boy, girl, boy. B. girl, boy, girl.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Harry> is a brave, kind-hearted young wizard, known for his lightning-shaped scar and his unwavering courage in the face of dark forces. <Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face. <Ron> is a young man with red hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Harry>, <Hermione>, and <Ron> respectively? A. black, brown, red. B. brown, black, blonde.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Harry> is a brave, kind-hearted young wizard, known for his lightning-shaped scar and his unwavering courage in the face of dark forces. <Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face. <Ron> is a young man with red hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Harry> and <Ron> often wear glasses? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Harry> is a brave, kind-hearted young wizard, known for his lightning-shaped scar and his unwavering courage in the face of dark forces. <Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face. <Ron> is a young man with red hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of clothing do <Hermione> and <Ron> often wear? A. Casual, Formal. B. Both Casual.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Harry> is a brave, kind-hearted young wizard, known for his lightning-shaped scar and his unwavering courage in the face of dark forces. <Hermione> is a young woman with long, wavy brown hair and a thoughtful expression on her face. <Ron> is a young man with red hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Are all <Harry>, <Hermione>, and <Ron> humans or animals? A. Humans. B. Animals.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Huoyuhao_Wangdong_Xiaoxiao": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Huoyuhao> is a young male with striking blue eyes. <Wangdong> is a young female with striking blue hair and striking blue eyes. <Xiaoxiao> is a young female with vibrant green hair, wearing a detailed costume with gold accents and holding an umbrella."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Huoyuhao> and <Wangdong> respectively? A.Black, Blue. B.Blue, Green\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Huoyuhao> is a young male with striking blue eyes. <Wangdong> is a young female with striking blue hair and striking blue eyes. <Xiaoxiao> is a young female with vibrant green hair, wearing a detailed costume with gold accents and holding an umbrella."
+                },
+                {
+                    "from": "human",
+                    "value": "Are <Huoyuhao>, <Wangdong>, and <Xiaoxiao> humans or animals? A.Humans. B.Animals\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Huoyuhao> is a young male with striking blue eyes. <Wangdong> is a young female with striking blue hair and striking blue eyes. <Xiaoxiao> is a young female with vibrant green hair, wearing a detailed costume with gold accents and holding an umbrella."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Huoyuhao>, <Wangdong>, and <Xiaoxiao> respectively? A.Boy, Boy, Girl. B.Girl, Boy, Boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Huoyuhao> is a young male with striking blue eyes. <Wangdong> is a young female with striking blue hair and striking blue eyes. <Xiaoxiao> is a young female with vibrant green hair, wearing a detailed costume with gold accents and holding an umbrella."
+                },
+                {
+                    "from": "human",
+                    "value": "Which characters often wear ornate clothing? A.<Huoyuhao> and <Xiaoxiao>. B.<Wangdong> and <Xiaoxiao>\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Huoyuhao> is a young male with striking blue eyes. <Wangdong> is a young female with striking blue hair and striking blue eyes. <Xiaoxiao> is a young female with vibrant green hair, wearing a detailed costume with gold accents and holding an umbrella."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Wangdong> and <Xiaoxiao> have similar hair colors? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "LiKe_LeiGu_NaNaQi": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <LiKe> is a young girl with blonde hair and glasses. <LeiGu> is a young boy with short black hair, wearing a green helmet with a visor and a red and blue outfit. <NaNaQi> is a young, animated rabbit with white fur and large, expressive eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Are all <LiKe>, <LeiGu>, and <NaNaQi> animals or humans? A. Animal. B. Human\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <LiKe> is a young girl with blonde hair and glasses. <LeiGu> is a young boy with short black hair, wearing a green helmet with a visor and a red and blue outfit. <NaNaQi> is a young, animated rabbit with white fur and large, expressive eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <LiKe>, <LeiGu>, and <NaNaQi> respectively? A. Girl, boy, girl. B. Boy, girl, boy\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <LiKe> is a young girl with blonde hair and glasses. <LeiGu> is a young boy with short black hair, wearing a green helmet with a visor and a red and blue outfit. <NaNaQi> is a young, animated rabbit with white fur and large, expressive eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <LiKe> and <NaNaQi> respectively? A. Blonde, white. B. Black, white\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <LiKe> is a young girl with blonde hair and glasses. <LeiGu> is a young boy with short black hair, wearing a green helmet with a visor and a red and blue outfit. <NaNaQi> is a young, animated rabbit with white fur and large, expressive eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <LiKe> and <LeiGu> often wear glasses? A. Yes. B. No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <LiKe> is a young girl with blonde hair and glasses. <LeiGu> is a young boy with short black hair, wearing a green helmet with a visor and a red and blue outfit. <NaNaQi> is a young, animated rabbit with white fur and large, expressive eyes."
+                },
+                {
+                    "from": "human",
+                    "value": "What type of headgear do <LeiGu> and <NaNaQi> often wear? A. Helmet, hat. B. Hat, helmet\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Lixun_Zhuyun_Laogao": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Lixun> is a young man. <Zhuyun> is a young woman. <Laogao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the hair colors of <Lixun> and <Laogao>? A.Blonde, Black. B.Black, Blonde\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Lixun> is a young man. <Zhuyun> is a young woman. <Laogao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Lixun>, <Zhuyun>, and <Laogao>? A.Male, Female, Male. B.Female, Male, Female\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Lixun> is a young man. <Zhuyun> is a young woman. <Laogao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "Which roles often wear casual clothing? A.<Lixun> and <Zhuyun>. B.<Lixun> and <Laogao>\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Lixun> is a young man. <Zhuyun> is a young woman. <Laogao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Zhuyun> and <Laogao> have similar hair colors? A.Yes. B.No\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Lixun> is a young man. <Zhuyun> is a young woman. <Laogao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "Which roles are likely to wear accessories like earrings? A.<Zhuyun>. B.<Lixun> and <Laogao>\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "Xing_Xue_Yu": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xing> is a young boy with short black hair. <Xue> is a young woman with dark hair. <Yu> is a young boy with short black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <Xing>, <Xue>, and <Yu> respectively? A. boy, girl, boy. B. girl, boy, girl.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xing> is a young boy with short black hair. <Xue> is a young woman with dark hair. <Yu> is a young boy with short black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the common hair color of <Xing> and <Yu>? A. Black. B. Brown.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xing> is a young boy with short black hair. <Xue> is a young woman with dark hair. <Yu> is a young boy with short black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <Xue> and <Yu> have long hair? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xing> is a young boy with short black hair. <Xue> is a young woman with dark hair. <Yu> is a young boy with short black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Which roles often wear casual clothing? A. <Xing> and <Yu>. B. <Xue> and <Yu>.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <Xing> is a young boy with short black hair. <Xue> is a young woman with dark hair. <Yu> is a young boy with short black hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Are <Xing> and <Xue> both humans? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ],
+    "yifei_zhangwei_meijia_ziqiao": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <yifei> is a young woman. <zhangwei> is a young man. <meijia> is a young woman with long brown hair, wearing a pink top and a gray sweater. <ziqiao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <yifei>, <zhangwei>, and <meijia>? A. girl, boy, girl. B. boy, girl, boy.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <yifei> is a young woman. <zhangwei> is a young man. <meijia> is a young woman with long brown hair, wearing a pink top and a gray sweater. <ziqiao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "Which roles often wear formal attire? A. <zhangwei> and <ziqiao>. B. <yifei> and <meijia>.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <yifei> is a young woman. <zhangwei> is a young man. <meijia> is a young woman with long brown hair, wearing a pink top and a gray sweater. <ziqiao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <yifei> and <meijia> have long hair? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <yifei> is a young woman. <zhangwei> is a young man. <meijia> is a young woman with long brown hair, wearing a pink top and a gray sweater. <ziqiao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "Which roles are often seen in casual clothing? A. <zhangwei> and <ziqiao>. B. <yifei> and <meijia>.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <yifei> is a young woman. <zhangwei> is a young man. <meijia> is a young woman with long brown hair, wearing a pink top and a gray sweater. <ziqiao> is a young man."
+                },
+                {
+                    "from": "human",
+                    "value": "Who among <zhangwei> and <ziqiao> is often seen in a suit? A. <zhangwei>. B. <ziqiao>.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "B"
+        }
+    ],
+    "zhongtangxi_sanchengmeiqin_jiubuliulang_donghailinxizi": [
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <zhongtangxi> is a young man with dark hair and a serious expression. <sanchengmeiqin> is a young woman with dark hair and a serious expression on her face. <jiubuliulang> is a young man. <donghailinxizi> is a young woman with dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What are the genders of <zhongtangxi>, <sanchengmeiqin>, and <jiubuliulang>? A. male, female, male. B. female, male, female.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <zhongtangxi> is a young man with dark hair and a serious expression. <sanchengmeiqin> is a young woman with dark hair and a serious expression on her face. <jiubuliulang> is a young man. <donghailinxizi> is a young woman with dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Which roles often wear glasses? A. <jiubuliulang> and <donghailinxizi>. B. <sanchengmeiqin> and <zhongtangxi>.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <zhongtangxi> is a young man with dark hair and a serious expression. <sanchengmeiqin> is a young woman with dark hair and a serious expression on her face. <jiubuliulang> is a young man. <donghailinxizi> is a young woman with dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "What is the common hair color of <zhongtangxi> and <donghailinxizi>? A. Black. B. Brown.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <zhongtangxi> is a young man with dark hair and a serious expression. <sanchengmeiqin> is a young woman with dark hair and a serious expression on her face. <jiubuliulang> is a young man. <donghailinxizi> is a young woman with dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Which roles are often seen in professional attire? A. <sanchengmeiqin> and <jiubuliulang>. B. <zhongtangxi> and <donghailinxizi>.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        },
+        {
+            "conversations": [
+                {
+                    "from": "system",
+                    "value": "You are a helpful assistant. <zhongtangxi> is a young man with dark hair and a serious expression. <sanchengmeiqin> is a young woman with dark hair and a serious expression on her face. <jiubuliulang> is a young man. <donghailinxizi> is a young woman with dark hair."
+                },
+                {
+                    "from": "human",
+                    "value": "Do <sanchengmeiqin> and <donghailinxizi> have similar hair length? A. Yes. B. No.\nRULE: Answer this multi-choice question using a single letter."
+                },
+                {
+                    "from": "assistant",
+                    "value": ""
+                }
+            ],
+            "gt": "A"
+        }
+    ]
+}
